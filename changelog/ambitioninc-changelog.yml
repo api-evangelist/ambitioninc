@@ -1,0 +1,101 @@
+generated: '2026-09-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.ambition.com/articles/4843739102-release-notes-2026
+sources:
+- https://help.ambition.com/articles/4843739102-release-notes-2026
+- https://help.ambition.com/articles/3641859353-release-notes-2025
+- https://help.ambition.com/articles/9927187272-release-notes-2024
+- https://help.ambition.com/articles/9133651712-release-notes-2023
+entries:
+- breaking: false
+  highlights:
+  - 'Metric Library - Export: Adds a "most recent value" computation type on the metric library export.'
+  - 'Coaching - Updated Terminology: Updates remaining uses of "check-in" and "group check-in" within the new, unified coaching experience to
+    reflect "sessions".'
+  - 'Analytics - CSV Export: Resolves an issue where an exported CSV was not respecting the order of rearranged columns.'
+  - 'Coaching Analytics - Permissions: Resolves an issue where coaching utilization reports were not downloadable by those with "coaching analytics"
+    permission.'
+  date: '2026-03-12'
+- breaking: false
+  highlights:
+  - 'Bracket Competition - Editing: Bracket competitions now support editing after initial creation.'
+  - 'Bracket Competition - TV Slides: The bracket competition create form has a TV step where competitions can be directly added to the respective
+    TVs.'
+  - 'North Star Metric Percentage: Resolves an issue where the percentage shown on the north star metric card did not match the percentage shown
+    on the scorecard for the same metric and time frame.'
+  - 'AI Assistant - Result Limits: Expands the amount of results that will be returned when asking about team relationships, managers, and direct
+    reports.'
+  date: '2026-03-09'
+- breaking: false
+  highlights:
+  - 'Coaching - Gong Agenda Item: Resolves an issue where employees could submit a coaching check-in for review without attaching a required Gong
+    call.'
+  - 'Cisco Integration - Documentation: Resolves an issue within the Cisco integration to correctly link to the Cisco setup documentation.'
+  - 'User CSV Upload - Managers: Resolves an issue where users who had their manager permissions removed through a user CSV upload were still
+    appearing in app with searchable manager dashboards.'
+  - 'Dashboard Metrics Tab - Metric Order: Resolves an issue where reordered scorecard metrics were reflecting the custom order on card view,
+    but were showing alphabetically on the spreadsheet view.'
+  date: '2026-03-04'
+- breaking: false
+  highlights:
+  - 'Dashboard Redirect: When the dashboard feature is disabled, an existing redirect would take users to the leaderboard app. Now when the leaderboard
+    feature is also disabled, users will be taken to the coaching app.'
+  - 'Competitions - Hidden Mode Access: Access to turning hidden mode on or off can now be found in the quick actions menu for all competition
+    types.'
+  - 'Coaching - Admin Creating Coaching Events on Behalf of Manager: Resolves an issue where a recurring check-in was created with the admin as
+    the assigned manager instead of correctly creating a program from the selected manager.'
+  - 'Analytics - Refresh Button: Resolves an issue where the refresh button within the analytic''s spreadsheet view was no longer accessible.'
+  date: '2026-03-02'
+- breaking: false
+  highlights:
+  - 'New Feature: Bracket Competition (Beta): Create single-elimination bracket competitions just in time for March Madness!'
+  - 'Coaching - Scrolling Within Template Creation: Resolves a scrolling issue within the create template form.'
+  - 'Coaching - Apply Template: Resolves an issue where templates could not easily removed from coaching agendas within the new coaching experience.'
+  date: '2026-02-26'
+- breaking: false
+  highlights:
+  - 'Coaching - File Attachments: Resolves an issue where attached files were crashing upon download.'
+  - 'Analytics - Time Series: Resolves an issue where time series reporting was not correctly displaying the selected time frame due to activity
+    score being disabled.'
+  date: '2026-02-25'
+- breaking: false
+  highlights:
+  - 'Coaching - Metric Snapshot Agenda Items - Target/Records View: Metric snapshot agenda items are updated to no longer show the "records" button
+    and "target" information when those options are not applicable.'
+  - 'Date Selectors Within Modals: Resolves an issue where date selectors that were within modals were difficult to access.'
+  date: '2026-02-20'
+- breaking: false
+  highlights:
+  - 'Coaching - Cadences: Resolves an issue that occurred when employees were re-enrolled in a cadence which caused cadence check-ins to not be
+    generated.'
+  - 'Seismic Integration - No Data Message: Resolves an issue where users with Seismic data were incorrectly displaying a "no Seismic data" message
+    within their user settings.'
+  date: '2026-02-18'
+- breaking: false
+  highlights:
+  - 'Coaching - Managed Program Updates: Resolves the issue of when a managed program was updated, child programs belonging to managers who no
+    longer managed any employees were not being updated.'
+  date: '2026-02-14'
+- breaking: false
+  highlights:
+  - 'Coaching - Snapshot Agenda Items - Regenerate Snapshot: The employee assigned to complete a coaching event can now regenerate metric and
+    pipeline snapshots.'
+  - 'Coaching - Session Participants: Resolves an issue where managers were needing to refresh the coaching creation form in order to see all
+    available participants.'
+  - 'Coaching - Locked Templates: Resolves an issue where changes to locked templates were not correctly updating managed programs.'
+  - 'AI Assistant: Resolves an issue where the assistant was presenting an error to users when a user asked a more complex question.'
+  date: '2026-02-11'
+- breaking: false
+  highlights:
+  - 'Single Sign-On - Provisioning Toggle: Within single sign-on setup, the toggle that allows user accounts to be provisioned using just-in-time
+    provisioning has a new label, "just-in-time provisioning" and will be off by default.'
+  date: '2026-02-05'
+- breaking: false
+  highlights:
+  - 'Coaching - Coaching Accountability: Resolves an issue where the "include users without data" filter was not being respected when expanding
+    nested rows.'
+  date: '2026-02-03'
+current_version: 3.430.0
+note: Versioning scheme follows semantic versioning with three numeric components (major.minor.patch).
+docs: https://help.ambition.com/articles/4843739102-release-notes-2026

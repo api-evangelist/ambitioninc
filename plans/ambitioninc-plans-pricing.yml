@@ -1,0 +1,26 @@
+generated: '2026-09-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://ambition.com/pricing
+sources:
+- https://ambition.com/pricing
+- https://help.ambition.com/articles/6348458852-how-do-i-rename-action-plans
+- https://help.ambition.com/articles/8930368787-how-do-i-complete-and-submit-action-plans-i-ve-been-assigned
+- https://help.ambition.com/articles/9357249543-how-do-i-review-completed-employee-action-plans
+name: Ambitioninc pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Starter
+  price_text: $45/user/month
+  price: 45
+  description: Seller Activation
+- name: Pro
+  price_text: $65/user/month
+  price: 65
+  description: Coaching Orchestration
+- name: Enterprise
+  price_text: $75/user/month
+  price: 75
+  description: Revenue Execution System
+docs: https://ambition.com/pricing

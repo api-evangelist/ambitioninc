@@ -1,0 +1,17 @@
+generated: '2026-09-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.ambition.com/articles/4273107736-how-can-i-display-a-tv-if-my-device-doesn-t-support-password-based-authentication
+sources:
+- https://help.ambition.com/articles/4273107736-how-can-i-display-a-tv-if-my-device-doesn-t-support-password-based-authentication
+- https://help.ambition.com/articles/4369357246-how-do-i-set-up-the-coaching-quickstart-and-access-check-in-visualizations-within-domo
+- https://help.ambition.com/articles/9502903582-how-can-i-use-hidden-mode-to-test-my-competition-setup
+- https://help.ambition.com/articles/2508363429-how-do-i-set-custom-targets-or-build-ramp-time-into-scorecards
+description: Token‑Based Authentication using a URL query parameter
+schemes:
+- type: apiKey
+  name: URL token
+  evidence: 'If you are using token-based authentication, you will need to append the following to your TV URL: ?_tva=YOUR_TOKEN_HERE'
+  location: query
+  how_to_obtain: Request a token by emailing gethelp@ambition.com
+docs: https://help.ambition.com/articles/4273107736-how-can-i-display-a-tv-if-my-device-doesn-t-support-password-based-authentication

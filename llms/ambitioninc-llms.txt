@@ -1,0 +1,1088 @@
+# Ambition Knowledge Base
+
+
+## Access Ambition
+
+- [How do I login to Ambition for the first time?](https://help.ambition.com/articles/9808727261-how-do-i-login-to-ambition-for-the-first-time)
+- [How do I access Ambition?](https://help.ambition.com/articles/4819203048-how-do-i-access-ambition)
+- [How do I access the Ambition tab in Salesforce?](https://help.ambition.com/articles/5126257843-how-do-i-access-the-ambition-tab-in-salesforce)
+- [Why does Ambition say that I don't have an active account?](https://help.ambition.com/articles/6661527780-why-does-ambition-say-that-i-don-t-have-an-active-account)
+- [How do I access Ambition on my phone or tablet?](https://help.ambition.com/articles/9365832358-how-do-i-access-ambition-on-my-phone-or-tablet)
+- [How To Access Ambition Academy](https://help.ambition.com/articles/1229691510-how-to-access-ambition-academy)
+
+## Users and Groups
+
+
+### Create & Manage Users
+
+- [ Ambition Best Practices: Adding Users](https://help.ambition.com/articles/8456912129-best-practice-adding-users-into-ambition)
+- [How can I automate user creation?](https://help.ambition.com/articles/5679565126-how-can-i-automate-user-creation)
+- [Can I create a user but not invite them until later?](https://help.ambition.com/articles/7525024785-can-i-create-a-user-but-not-invite-them-until-later)
+- [How do I invite users to Ambition?](https://help.ambition.com/articles/6926860253-how-do-i-invite-users-to-ambition)
+- [How do I export a user list?](https://help.ambition.com/articles/7402431081-how-do-i-export-a-user-list)
+- [What do I need to know about user activation history and member since dates?](https://help.ambition.com/articles/1458844512-what-do-i-need-to-know-about-user-activation-history-and-member-since-dates)
+- [How do I set or update a user's manager?](https://help.ambition.com/articles/4702540285-how-do-i-set-or-update-a-user-s-manager)
+- [How do I mark an employee out of office?](https://help.ambition.com/articles/4511268189-how-do-i-mark-a-user-out-of-office)
+- [How can I find and filter current users?](https://help.ambition.com/articles/8806457375-how-can-i-find-and-filter-current-users)
+- [How do I edit profiles for users I manage?](https://help.ambition.com/articles/8694086561-how-do-i-edit-profiles-for-users-i-manage)
+- [What profile information can I update for users I manage?](https://help.ambition.com/articles/7547356467-what-profile-information-can-i-update-for-users-i-manage)
+- [How do I deactivate/reactivate a user?](https://help.ambition.com/articles/4353448166-how-do-i-deactivate-reactivate-a-user)
+- [What happens when a user is deactivated?](https://help.ambition.com/articles/3713648822-what-happens-when-a-user-is-deactivated)
+- [Can I bulk upload user profile pictures?](https://help.ambition.com/articles/9265001377-can-i-bulk-upload-user-profile-pictures)
+- [Can user start dates, work anniversaries, or birthdays be updated in bulk?](https://help.ambition.com/articles/8210600278-can-user-start-dates-work-anniversaries-or-birthdays-be-updated-in-bulk)
+- [How do I add additional user licenses to my account?](https://help.ambition.com/articles/9316536445-how-do-i-add-additional-user-licenses-to-my-account)
+- [What does the "Last Login" date found within user management represent?](https://help.ambition.com/articles/4946297106-what-does-the-last-login-date-found-within-user-management-represent)
+
+#### Manual Provisioning & Management
+
+- [How do I manually update a user?](https://help.ambition.com/articles/5425256721-how-do-i-manually-update-a-user)
+- [How do I add a new user manually?](https://help.ambition.com/articles/5968170568-how-do-i-add-a-new-user-manually)
+
+#### Bulk Upload Provisioning & Management
+
+- [How do I add users via CSV upload?](https://help.ambition.com/articles/9565666330-how-do-i-add-users-via-csv-upload)
+
+#### Automated Provisioning & Management
+
+- [How do I add users from Salesforce?](https://help.ambition.com/articles/5625529674-how-do-i-add-users-from-salesforce)
+- [How do I add a Salesforce ID to an existing user?](https://help.ambition.com/articles/8568731864-how-do-i-add-a-salesforce-id-to-an-existing-user)
+- [How do I remove a Salesforce ID for a user?](https://help.ambition.com/articles/6605469089-how-do-i-remove-a-salesforce-id-for-a-user)
+
+### Permissions
+
+- [What types of permission sets are available?](https://help.ambition.com/articles/9104117358-what-types-of-permission-sets-are-available)
+- [How do I create and assign custom permission sets?](https://help.ambition.com/articles/5950355853-how-do-i-create-and-assign-custom-permission-sets)
+- [What does it mean to be a manager in Ambition?](https://help.ambition.com/articles/2179612109-what-does-it-mean-to-be-a-manager-in-ambition)
+- [How do I create and assign individual permissions?](https://help.ambition.com/articles/6881039588-how-do-i-create-and-assign-individual-permissions)
+- [How are permissions defined?](https://help.ambition.com/articles/8410694296-how-are-permissions-defined)
+
+### Create Groups & Group Types
+
+- [How do I group users together?](https://help.ambition.com/articles/4845169512-how-do-i-group-users-together)
+- [Best Practice - Group Types and Groups](https://help.ambition.com/articles/5519792362-best-practice-group-types-and-groups)
+- [How do I create group types and groups?](https://help.ambition.com/articles/5403554453-how-do-i-create-group-types-and-groups)
+- [How do I edit or delete group types?](https://help.ambition.com/articles/4072992952-how-do-i-edit-group-types)
+- [How do I export group and group type information?](https://help.ambition.com/articles/8375062207-how-do-i-export-group-and-group-type-information)
+- [What does it mean for a group type to have open membership enabled?](https://help.ambition.com/articles/7569958549-what-does-it-mean-for-a-group-type-to-have-open-membership-enabled)
+
+### Manage Groups
+
+- [How do I edit groups?](https://help.ambition.com/articles/4091338254-how-do-i-edit-groups)
+- [How do I add users to a group?](https://help.ambition.com/articles/2318033547-how-do-i-add-users-to-a-group)
+- [How do I edit when a user became a member of a group?](https://help.ambition.com/articles/6605454896-how-do-i-edit-when-a-user-became-a-member-of-a-group)
+- [What does it mean to be a group member?](https://help.ambition.com/articles/4805402624-what-does-it-mean-to-be-a-group-member)
+- [How do I add a group manager?](https://help.ambition.com/articles/5357780443-how-do-i-add-a-group-manager)
+- [How many managers can a group have?](https://help.ambition.com/articles/4072123056-how-many-managers-can-a-group-have)
+- [Can someone be both a member and manager of a group?](https://help.ambition.com/articles/9341627038-can-someone-be-both-a-member-and-manager-of-a-group)
+- [Can an employee be a member of multiple groups?](https://help.ambition.com/articles/8702765612-can-an-employee-be-a-member-of-multiple-groups)
+- [How do I edit a group's image, anthem, or GIF?](https://help.ambition.com/articles/2411787989-how-do-i-edit-a-group-s-image-anthem-or-gif)
+- [Where can I view a log of who has been added and removed from a group?](https://help.ambition.com/articles/4766188060-where-can-i-view-a-log-of-who-has-been-added-and-removed-from-a-group)
+
+## Integrations
+
+
+### Salesforce
+
+- [What options do I have for connecting Salesforce and Ambition?](https://help.ambition.com/articles/2725560410-what-options-do-i-have-for-connecting-salesforce-and-ambition)
+- [How do I install Ambition's Managed Package in Salesforce?](https://help.ambition.com/articles/4082923545-how-do-i-install-ambition-s-managed-package-in-salesforce)
+- [How do I install Ambition with a "headless" user Salesforce license?](https://help.ambition.com/articles/2803479677-how-do-i-install-ambition-with-a-headless-user-salesforce-license)
+- [How do I authorize the API-Only Salesforce connection?](https://help.ambition.com/articles/2523725523-how-do-i-authorize-the-api-only-salesforce-connection)
+- [How do I connect one instance of Salesforce to multiple instances of Ambition?](https://help.ambition.com/articles/5586149801-how-do-i-connect-one-instance-of-salesforce-to-multiple-instances-of-ambition)
+- [How do I add Salesforce users?](https://help.ambition.com/articles/6068722954-how-do-i-add-salesforce-users)
+- [How do I sync fields from user's Salesforce profile into Ambition?](https://help.ambition.com/articles/3189892230-how-do-i-sync-user-profile-attributes-from-salesforce-into-ambition)
+- [How do I automate Salesforce user creation?](https://help.ambition.com/articles/7441755989-how-do-i-automate-salesforce-user-creation)
+- [How do I create Salesforce metrics?](https://help.ambition.com/articles/9142373989-how-do-i-build-salesforce-metrics)
+- [How do I sync Salesforce Reports to use in Ambition?](https://help.ambition.com/articles/4894935387-how-do-i-sync-salesforce-reports-to-use-in-ambition)
+- [How do I create a metric using a Salesforce Report?](https://help.ambition.com/articles/1935553729-how-do-i-create-a-metric-using-a-salesforce-report)
+- [Are there examples of Salesforce metrics built in Ambition?](https://help.ambition.com/articles/5851737814-are-there-examples-of-salesforce-metrics-built-in-ambition)
+- [How do I format a Salesforce report for metric validation and troubleshooting?](https://help.ambition.com/articles/3035631476-how-do-i-format-a-salesforce-report-for-metric-validation-and-troubleshooting)
+- [How do I enable Salesforce multi-currency support in Ambition?](https://help.ambition.com/articles/1478503568-how-do-i-enable-salesforce-multi-currency-support-in-ambition)
+- [How does Ambition interact with Salesforce data from other platforms like Salesloft, Outreach, Gong, etc?](https://help.ambition.com/articles/6949034244-how-does-ambition-interact-with-salesforce-data-from-other-platforms-like-salesloft-outreach-gong-etc)
+- [What should I consider when using Salesforce Related Fields?](https://help.ambition.com/articles/2918970441-what-should-i-consider-when-using-salesforce-related-fields)
+- [What are meta fields and how can I use them in Ambition?](https://help.ambition.com/articles/5819891079-what-are-meta-fields-and-how-can-i-use-them-in-ambition)
+- [How do I access the Sidebar Widget? (Classic)](https://help.ambition.com/articles/2836839296-how-do-i-access-the-sidebar-widget-classic)
+- [How do I access the Ambition Widget? (Lightning)](https://help.ambition.com/articles/8994966897-how-do-i-access-the-ambition-widget-lightning)
+- [How does Ambition interact with Salesforce?](https://help.ambition.com/articles/3261097637-how-does-ambition-interact-with-salesforce)
+- [How do I reauthorize the Managed Package's API access with Salesforce?](https://help.ambition.com/articles/8911021948-how-do-i-reauthorize-the-managed-package-s-api-access-with-salesforce)
+- [How do I grant Salesforce login access to Ambition?](https://help.ambition.com/articles/8208707021-how-do-i-grant-salesforce-login-access-to-ambition)
+- [How do I uninstall Ambition's Managed Package in Salesforce?](https://help.ambition.com/articles/8475910286-how-do-i-uninstall-ambition-s-managed-package-in-salesforce)
+- [How do I convert hh:mm:ss duration (hh:mm:ss) to seconds?](https://help.ambition.com/articles/1719094353-how-do-i-convert-hh-mm-ss-duration-hh-mm-ss-to-seconds)
+- [How can Salesforce system updates impact my Ambition data?](https://help.ambition.com/articles/4203370364-how-can-salesforce-system-updates-impact-my-ambition-data)
+- [How can I track status or stage changes in Ambition metrics?](https://help.ambition.com/articles/9795874623-how-can-i-track-status-or-stage-changes-in-ambition-metrics)
+- [What if I have Salesforce: Professional Edition?](https://help.ambition.com/articles/7240385895-what-if-i-have-salesforce-professional-edition)
+- [Why am I unable to sync a Salesforce report to Ambition?](https://help.ambition.com/articles/5455975599-why-am-i-unable-to-sync-a-salesforce-report-to-ambition)
+- [How do I manage the Ambition Connected App after the Salesforce Change to App Usage Restrictions?](https://help.ambition.com/articles/6811347569-how-do-i-manage-the-ambition-connected-app-after-salesforce-s-change-to-app-usage-restrictions)
+
+### API
+
+- [What is needed for an API integration?](https://help.ambition.com/articles/7339441156-what-is-needed-for-an-api-integration)
+- [How do I construct data for an API integration?](https://help.ambition.com/articles/2703036500-how-do-i-construct-data-for-an-api-integration)
+- [How do I set up an API integration?](https://help.ambition.com/articles/8902446918-how-do-i-set-up-an-api-integration)
+- [How can I parse nested JSON data in an API Integration?](https://help.ambition.com/articles/8274863120-how-can-i-parse-nested-json-data-in-an-api-integration)
+- [How do I upload data for an API integration?](https://help.ambition.com/articles/5962834999-how-do-i-upload-data-for-an-api-integration)
+
+### FTP/SFTP
+
+- [What is needed for a FTP integration?](https://help.ambition.com/articles/3356248305-what-is-needed-for-a-ftp-integration)
+- [How do I construct data for a FTP integration?](https://help.ambition.com/articles/6250830728-how-do-i-construct-data-for-a-ftp-integration)
+- [How do I set up a FTP integration?](https://help.ambition.com/articles/7809223149-how-do-i-set-up-a-ftp-integration)
+- [How do I upload data for a FTP integration?](https://help.ambition.com/articles/5129747757-how-do-i-upload-data-for-a-ftp-integration)
+
+### Integration Solution Services
+
+- [How do I integrate with Microsoft Dynamics through Ambition's solution services?](https://help.ambition.com/articles/7556053960-how-do-i-integrate-with-microsoft-dynamics-through-ambition-s-solution-services)
+- [How do I integrate with Hubspot through Ambition's solution services?](https://help.ambition.com/articles/3412021120-how-do-i-integrate-with-hubspot-through-ambition-s-solution-services)
+- [How do I integrate with Outreach through Ambition's solution services?](https://help.ambition.com/articles/9235226633-how-do-i-integrate-with-outreach-through-ambition-s-solution-services)
+- [How do I integrate with Salesloft through Ambition's solution services?](https://help.ambition.com/articles/3282098332-how-do-i-integrate-with-salesloft-through-ambition-s-solution-services)
+
+### Slack
+
+- [How can I use Ambition with Slack?](https://help.ambition.com/articles/4301231323-how-can-i-use-ambition-with-slack)
+- [How do I enable and authorize the Slack integration?](https://help.ambition.com/articles/1493216639-how-do-i-enable-and-authorize-the-slack-integration)
+- [How do I invite Ambition to Slack channels?](https://help.ambition.com/articles/9820234242-how-do-i-invite-ambition-to-slack-channels)
+- [How can I use Ambition slash commands in Slack?](https://help.ambition.com/articles/8384179515-how-can-i-use-ambition-slash-commands-in-slack)
+- [What information is accessed through the Slack integration?](https://help.ambition.com/articles/1645627811-what-information-is-accessed-through-the-slack-integration)
+
+### Microsoft Teams
+
+- [How do I enable and authorize the Microsoft Teams integration?](https://help.ambition.com/articles/4808158058-how-do-i-enable-and-authorize-the-microsoft-teams-integration)
+- [How do I share leaderboards in Microsoft Teams Channels?](https://help.ambition.com/articles/1515442650-how-do-i-share-leaderboards-in-microsoft-teams-channels)
+- [How do I use Microsoft Team's Website Tab to display an Ambition TV?](https://help.ambition.com/articles/5932007439-how-do-i-use-microsoft-team-s-website-tab-to-display-an-ambition-tv)
+- [What information is accessed through the Microsoft Teams integration?](https://help.ambition.com/articles/7621494993-what-information-is-accessed-through-the-microsoft-teams-integration)
+
+### Webex
+
+- [How do I enable and authorize the Webex integration?](https://help.ambition.com/articles/8543679385-how-do-i-enable-and-authorize-the-webex-integration)
+- [How do I use Webex's tab options to display an Ambition TV?](https://help.ambition.com/articles/1724336404-how-do-i-use-webex-s-tab-options-to-display-an-ambition-tv)
+- [What information is accessed through the Webex integration?](https://help.ambition.com/articles/1739098201-what-information-is-accessed-through-the-webex-integration)
+
+### Zoom
+
+- [How Do I Enable and Authorize the Zoom Integration?](https://help.ambition.com/articles/6155370065-how-do-i-enable-and-authorize-the-zoom-integration)
+- [How Do I Reauthorize the Zoom Integration?](https://help.ambition.com/articles/9765321758-how-do-i-reauthorize-the-zoom-integration)
+- [How Do I Revoke Authorization and Remove the Zoom Integration?](https://help.ambition.com/articles/3124561384-how-do-i-revoke-authorization-and-remove-the-zoom-integration)
+- [What Information Is Accessed through the Zoom Integration?](https://help.ambition.com/articles/4302612304-what-information-is-accessed-through-the-zoom-integration)
+
+### Ambition Public API
+
+- [What information is accessible in Ambition's public API?](https://help.ambition.com/articles/3091230097-what-information-is-accessible-in-ambition-s-public-api)
+
+### Gong Integration for Coaching
+
+- [How do I enable and authorize the Gong integration?](https://help.ambition.com/articles/6544617193-how-do-i-enable-and-authorize-the-gong-integration)
+
+### Calendar Integration for Coaching
+
+- [What Functionality is Available with the Calendar Sync Integration?](https://help.ambition.com/articles/5709190850-what-functionality-is-available-with-the-calendar-sync-integration)
+- [How Do I Set Up the Calendar Sync Integration?](https://help.ambition.com/articles/4192104207-how-do-i-set-up-the-calendar-sync-integration)
+- [How Do I Sync My Google or Microsoft Calendar to Ambition?](https://help.ambition.com/articles/8897296827-how-do-i-sync-my-google-or-microsoft-calendar-to-ambition)
+- [How Can I Access the Calendar View for My Coaching Sessions?](https://help.ambition.com/articles/2782914575-how-can-i-access-the-calendar-view-for-my-coaching-sessions)
+- [How Does Syncing My Work Calendar Help with Session Scheduling?](https://help.ambition.com/articles/4490542925-how-does-syncing-my-work-calendar-help-with-session-scheduling)
+
+### Seismic
+
+- [How do I enable and authorize the Seismic integration?](https://help.ambition.com/articles/7358711142-how-do-i-enable-and-authorize-the-seismic-integration)
+- [How do I authorize Seismic Learning in order to add lessons to coaching agendas?](https://help.ambition.com/articles/2833237034-how-do-i-authorize-seismic-learning-in-order-to-add-lessons-to-coaching-agendas)
+- [What information is accessed through the Seismic integration?](https://help.ambition.com/articles/1716899124-what-information-is-accessed-through-the-seismic-integration)
+
+### Velocify
+
+- [What do I need to know about a Velocify integration?](https://help.ambition.com/articles/3483537170-what-do-i-need-to-know-about-a-velocify-integration)
+- [How do I set up Velocify's LeadManager?](https://help.ambition.com/articles/5375455064-how-do-i-set-up-velocify-s-leadmanager)
+- [How do I set up a Velocify integration?](https://help.ambition.com/articles/2404659964-how-do-i-set-up-a-velocify-integration)
+- [What are some example Velocify metrics?](https://help.ambition.com/articles/2271554571-what-are-some-example-velocify-metrics)
+
+### Cisco
+
+- [How do I set up a Cisco integration?](https://help.ambition.com/articles/3497791322-how-do-i-set-up-a-cisco-integration)
+
+### File Upload
+
+- [How do I construct data for a File Upload integration?](https://help.ambition.com/articles/7785337701-how-do-i-construct-data-for-a-file-upload-integration)
+- [How do I set up a File Upload integration?](https://help.ambition.com/articles/1740936625-how-do-i-set-up-a-file-upload-integration)
+- [How do I upload data for a File Upload integration?](https://help.ambition.com/articles/9014891280-how-do-i-upload-data-for-a-file-upload-integration)
+
+### Manual Entry
+
+- [How do I set up a Manual Entry integration?](https://help.ambition.com/articles/1416408198-how-do-i-set-up-a-manual-entry-integration)
+- [How do I input Manual Entry Data?](https://help.ambition.com/articles/5872104280-how-do-i-input-manual-entry-data)
+- [How do I customize who can input data for a Manual Entry integration?](https://help.ambition.com/articles/6849879434-how-do-i-customize-who-can-input-data-for-a-manual-entry-integration)
+
+### Metric Management
+
+- [How do I access and navigate the Metric Library?](https://help.ambition.com/articles/1447117910-how-do-i-access-and-navigate-the-metric-library)
+- [Best Practice - Metric Creation and Data Validation](https://help.ambition.com/articles/3993662254-best-practice-metric-creation-and-data-validation)
+- [What should I consider while building metrics?](https://help.ambition.com/articles/2801735398-what-should-i-consider-while-building-metrics)
+- [What filter operators are available when building metrics?](https://help.ambition.com/articles/8812335002-what-filter-operators-are-available-when-building-metrics)
+- [How do I reprocess historical data after making changes to metrics?](https://help.ambition.com/articles/5824814291-how-do-i-reprocess-historical-data-after-making-changes-to-metrics)
+- [What happens when a metric is deleted?](https://help.ambition.com/articles/6011576535-what-happens-when-a-metric-is-deleted)
+- [How do I export information about where metrics are used in Ambition?](https://help.ambition.com/articles/5108413179-how-do-i-export-information-about-where-metrics-are-used-in-ambition)
+- [Can I change how my Ambition metrics are displayed?](https://help.ambition.com/articles/9020249603-can-i-change-how-my-ambition-metrics-are-displayed-metric-formatting)
+
+### Metric Calculations
+
+- [How do I create and use a Most Recent Value metric in Ambition?](https://help.ambition.com/articles/2308499587-how-do-i-create-and-use-a-most-recent-value-metric-in-ambition)
+- [How are the different record-based metric types calculated?](https://help.ambition.com/articles/9696724278-how-are-the-different-record-based-metric-types-calculated)
+- [How are metrics calculated on a group basis?](https://help.ambition.com/articles/1835672472-how-are-metrics-calculated-on-a-group-basis)
+
+### Data Validation
+
+- [How do I navigate the Data Explorer?](https://help.ambition.com/articles/2265299537-how-do-i-navigate-the-data-explorer)
+- [How do I use the "Data Search" option within integrations?](https://help.ambition.com/articles/4816445735-how-do-i-use-the-data-search-option-within-integrations)
+- [How do I validate data in Ambition?](https://help.ambition.com/articles/8631100306-how-do-i-validate-data-in-ambition)
+- [How do I validate a Salesforce integration?](https://help.ambition.com/articles/6191732919-how-do-i-validate-a-salesforce-integration)
+- [How do I validate Record format integrations?](https://help.ambition.com/articles/4669614055-how-do-i-validate-record-format-integrations)
+- [How do I validate Daily Totals format integrations?](https://help.ambition.com/articles/6924012955-how-do-i-validate-daily-totals-format-integrations)
+
+### Formula Builder
+
+- [How do I set up the Formula Builder?](https://help.ambition.com/articles/4698949955-how-do-i-set-up-the-formula-builder)
+- [How do I create Formula Builder metrics?](https://help.ambition.com/articles/9720748716-how-do-i-create-formula-builder-metrics)
+
+### Single Sign-On (SSO)
+
+- [How do I enable Single Sign-On through an IdP service?](https://help.ambition.com/articles/6765623843-how-do-i-enable-single-sign-on-through-an-idp-service)
+- [How do I enable Google Single Sign-On?](https://help.ambition.com/articles/6993390749-how-do-i-enable-google-single-sign-on)
+- [How do I enable Salesforce Single Sign-On (Classic)?](https://help.ambition.com/articles/3714394159-how-do-i-enable-salesforce-single-sign-on-classic)
+- [How do I enable Salesforce Single Sign-On (Lightning)?](https://help.ambition.com/articles/5552962233-how-do-i-enable-salesforce-single-sign-on-lightning)
+- [Should I have to log in to Ambition after I close my browser?](https://help.ambition.com/articles/6153587618-should-i-have-to-log-in-to-ambition-after-i-close-my-browser)
+
+### User API
+
+- [How do I set up the User API Integration?](https://help.ambition.com/articles/6886463524-how-do-i-set-up-the-user-api-integration)
+- [How do I create and edit users through the User API?](https://help.ambition.com/articles/2869705308-how-do-i-create-and-edit-users-through-the-user-api)
+
+### General Integration FAQ
+
+- [How is future data handled?](https://help.ambition.com/articles/9185893436-how-is-future-data-handled)
+- [Who will Ambition contact if there is an issue with an integration?](https://help.ambition.com/articles/5555870630-who-will-ambition-contact-if-there-is-an-issue-with-an-integration)
+- [How do I purge all metric data from an integration?](https://help.ambition.com/articles/2403754755-how-do-i-purge-all-metric-data-from-an-integration)
+- [Why doesn't the number of records generated match what I uploaded?](https://help.ambition.com/articles/5395832008-why-doesn-t-the-number-of-records-generated-match-what-i-uploaded)
+- [Troubleshooting: "Records-based integrations cannot support manual entry" error](https://help.ambition.com/articles/6891925873-troubleshooting-records-based-integrations-cannot-support-manual-entry-error)
+- [How do I delete a failed data upload?](https://help.ambition.com/articles/9529900214-how-do-i-delete-a-failed-data-upload)
+
+### Salesforce Sandbox
+
+- [How do I install Ambition's Managed Package in a Salesforce Sandbox environment?](https://help.ambition.com/articles/5504490445-how-do-i-install-ambition-s-managed-package-in-a-salesforce-sandbox-environment)
+
+### Domo Connector
+
+- [What options do I have for connecting Domo and Ambition?](https://help.ambition.com/articles/6000340134-what-options-do-i-have-for-connecting-domo-and-ambition)
+- [How do I set up the Writeback Connector to push Domo data to Ambition?](https://help.ambition.com/articles/1849612971-how-do-i-set-up-the-writeback-connector-to-push-domo-data-to-ambition)
+- [How do I set up the Basic Writeback Connector to push Domo data to Ambition?](https://help.ambition.com/articles/2454759025-how-do-i-set-up-the-basic-writeback-connector-to-push-domo-data-to-ambition)
+- [How do I set up the Coaching Connector to export Ambition score and coaching data into Domo?](https://help.ambition.com/articles/4237501238-how-do-i-set-up-the-coaching-connector-to-export-ambition-score-and-coaching-data-into-domo)
+- [How do I set up the Coaching Quickstart and access check-in visualizations within Domo?](https://help.ambition.com/articles/4369357246-how-do-i-set-up-the-coaching-quickstart-and-access-check-in-visualizations-within-domo)
+
+## Settings
+
+
+### User Settings
+
+- [How do I set my video anthem?](https://help.ambition.com/articles/9443565520-how-do-i-set-my-video-anthem)
+- [Why doesn't my YouTube anthem URL work?](https://help.ambition.com/articles/8030428210-why-doesn-t-my-youtube-anthem-url-work)
+- [How do I set my GIF?](https://help.ambition.com/articles/6668701151-how-do-i-set-my-gif)
+- [Where will I see my anthem and GIF?](https://help.ambition.com/articles/5814827563-where-will-i-see-my-anthem-and-gif)
+- [How do I access and update my user settings?](https://help.ambition.com/articles/3977907685-how-do-i-access-and-update-my-user-settings)
+- [What do I need to update in my user settings?](https://help.ambition.com/articles/9495339683-what-do-i-need-to-update-in-my-user-settings)
+- [How do I update my Ambition profile image/picture?](https://help.ambition.com/articles/7962213021-how-do-i-update-my-ambition-profile-image-picture)
+- [How do I reset my password?](https://help.ambition.com/articles/5679777506-how-do-i-reset-my-password)
+
+### Notifications
+
+- [What email notifications will users receive while interacting with Ambition?](https://help.ambition.com/articles/8603644156-what-email-notifications-will-users-receive-while-interacting-with-ambition)
+- [How do I subscribe/unsubscribe to Ambition email notifications?](https://help.ambition.com/articles/3633125129-how-do-i-subscribe-unsubscribe-to-ambition-email-notifications)
+- [What is the Daily Digest email?](https://help.ambition.com/articles/7775044669-what-is-the-daily-digest-email)
+- [What is the Weekly Digest email?](https://help.ambition.com/articles/1186422053-what-is-the-weekly-digest-email)
+
+### Organization Settings
+
+- [How can I update the company display name or logo?](https://help.ambition.com/articles/2477691220-how-can-i-update-the-company-display-name-or-logo)
+- [How do I set company support information and contacts?](https://help.ambition.com/articles/1581515740-how-do-i-set-company-support-information-and-contacts)
+- [How can I select which timeframes should be shown across Ambition?](https://help.ambition.com/articles/7467660524-how-can-i-select-which-timeframes-should-be-shown-across-ambition)
+- [How do I turn default notifications off?](https://help.ambition.com/articles/8140766943-how-do-i-turn-default-notifications-off)
+- [How do I rename action plans?](https://help.ambition.com/articles/6348458852-how-do-i-rename-action-plans)
+- [How do I control who can view check-in ratings?](https://help.ambition.com/articles/2417795878-how-do-i-control-who-can-view-check-in-ratings)
+- [How do I change the scorecard group type or time frames?](https://help.ambition.com/articles/6866920849-how-do-i-change-the-scorecard-group-type-or-time-frames)
+- [How can I change my Ambition instance's URL?](https://help.ambition.com/articles/5671979987-how-can-i-change-my-ambition-instance-s-url)
+
+## Coaching
+
+- [What is Ambition Coaching?](https://help.ambition.com/articles/6089918890-what-is-ambition-coaching)
+
+### Coaching Visibility
+
+- [What data can users with "Coaching: All Access" permission view?](https://help.ambition.com/articles/8351687481-what-data-can-users-with-coaching-all-access-permission-view)
+- [How Do I View Coaching Data from a Dashboard?](https://help.ambition.com/articles/8646685717-can-i-view-coaching-data-on-a-dashboard)
+- [How do I update coaching visibility preferences?](https://help.ambition.com/articles/1989736239-how-do-i-update-coaching-visibility-preferences)
+- [Can I View My New Direct Report's Sessions and Notes with Their Former Manager?](https://help.ambition.com/articles/2090419368-i-have-a-new-direct-report-can-i-view-their-past-coaching-data)
+- [How do I select which admins and managers can access coaching features?](https://help.ambition.com/articles/6843761049-how-do-i-select-which-admins-and-managers-can-access-coaching-features)
+
+### Check-Ins
+
+- [How Do I Generate a Coaching Pre-Read?](https://help.ambition.com/articles/6398052101-how-do-i-generate-a-coaching-pre-read)
+- [How do I review and approve employee check-ins?](https://help.ambition.com/articles/3308507847-how-do-i-review-and-approve-employee-check-ins)
+- [How do I create a check-in?](https://help.ambition.com/articles/4872153570-how-do-i-create-a-check-in)
+- [How do I edit a check-in?](https://help.ambition.com/articles/4279062852-how-do-i-edit-a-check-in)
+- [How do I stop a recurring check-in?](https://help.ambition.com/articles/3131712523-how-do-i-stop-a-recurring-check-in)
+- [How Do I Excuse a Coaching Session?](https://help.ambition.com/articles/9716115105-how-do-i-excuse-a-check-in)
+- [How do I reopen an expired check-in?](https://help.ambition.com/articles/8303154183-how-do-i-reopen-an-expired-check-in)
+- [How do I rate a check-in?](https://help.ambition.com/articles/9897504840-how-do-i-rate-a-check-in)
+- [How Do I Extend a Session's Due Date?](https://help.ambition.com/articles/4164236312-how-do-i-extend-a-check-in-s-due-date)
+- [How do I create saved filters for check-ins?](https://help.ambition.com/articles/1140553830-how-do-i-create-saved-filters-for-check-ins)
+- [How do I search for check-ins?](https://help.ambition.com/articles/4245396835-how-do-i-search-for-check-ins)
+- [How do I select a co-coach for check-ins?](https://help.ambition.com/articles/7732070604-how-do-i-select-a-co-coach-for-check-ins)
+- [Who can delete a check-in?](https://help.ambition.com/articles/3383889551-who-can-delete-a-check-in)
+- [How do I view Gong call recordings in a check-in?](https://help.ambition.com/articles/2961687490-how-do-i-view-gong-call-recordings-in-a-check-in)
+- [What questions should I ask in a coaching check-in?](https://help.ambition.com/articles/2274922003-what-questions-should-i-ask-in-a-coaching-check-in)
+- [How do I complete coaching sessions assigned to me?](https://help.ambition.com/articles/5105629434-how-do-i-complete-coaching-sessions-assigned-to-me)
+- [What Can Co-Coaches Do?](https://help.ambition.com/articles/5007395595-what-can-co-coaches-do)
+
+### Templates
+
+- [How do I create a coaching template?](https://help.ambition.com/articles/1032119111-how-do-i-create-a-coaching-template)
+- [What are the differences between locked and unlocked templates?](https://help.ambition.com/articles/4742606401-what-are-the-differences-between-locked-and-unlocked-templates)
+- [How do I edit coaching templates?](https://help.ambition.com/articles/1650185540-how-do-i-edit-coaching-templates)
+- [How do I duplicate a coaching template?](https://help.ambition.com/articles/7217272378-how-do-i-duplicate-a-coaching-template)
+- [Are there coaching templates to help me get started?](https://help.ambition.com/articles/8409694242-are-there-coaching-templates-to-help-me-get-started)
+
+### Group Check-Ins
+
+- [How do I create a group check-in?](https://help.ambition.com/articles/6642630010-how-do-i-create-a-group-check-in)
+- [How do I edit a group check-in?](https://help.ambition.com/articles/8969446788-how-do-i-edit-a-group-check-in)
+- [Who can interact with a group check-in?](https://help.ambition.com/articles/4414530544-who-can-interact-with-a-group-check-in)
+- [How do I open a group check-in early for participants?](https://help.ambition.com/articles/6722686157-how-do-i-open-a-group-check-in-early-for-participants)
+
+### Coaching Cadences
+
+- [How do I create a Coaching Cadence?](https://help.ambition.com/articles/4092783969-how-do-i-create-a-coaching-cadence)
+- [How do I add employees to a cadence?](https://help.ambition.com/articles/1517990272-how-do-i-add-employees-to-a-cadence)
+- [How do I edit a cadence?](https://help.ambition.com/articles/2042619134-how-do-i-edit-a-cadence)
+- [How do I assign a manager to approve an employee's cadence check-ins?](https://help.ambition.com/articles/9693007619-how-do-i-assign-a-manager-to-approve-an-employee-s-cadence-check-ins)
+- [How do I assign a co-coach to a cadence check-in?](https://help.ambition.com/articles/7010853504-how-do-i-assign-a-co-coach-to-a-cadence-check-in)
+- [How do I monitor employee progress in a cadence?](https://help.ambition.com/articles/7821230681-how-do-i-monitor-employee-progress-in-a-cadence)
+- [How do I track cadence effectiveness?](https://help.ambition.com/articles/6035337838-how-do-i-track-cadence-effectiveness)
+- [How do I remove employees from a cadence?](https://help.ambition.com/articles/3865235003-how-do-i-remove-employees-from-a-cadence)
+- [How do I duplicate a cadence?](https://help.ambition.com/articles/5798963471-how-do-i-duplicate-a-cadence)
+- [How do I change the owner of a cadence?](https://help.ambition.com/articles/5939776217-how-do-i-change-the-owner-of-a-cadence)
+- [How do I close a cadence?](https://help.ambition.com/articles/9026563762-how-do-i-close-a-cadence)
+
+### Action Plans
+
+- [How do I complete and submit action plans I've been assigned?](https://help.ambition.com/articles/8930368787-how-do-i-complete-and-submit-action-plans-i-ve-been-assigned)
+- [How do I review completed employee action plans?](https://help.ambition.com/articles/9357249543-how-do-i-review-completed-employee-action-plans)
+- [How do I create an action plan?](https://help.ambition.com/articles/9871982118-how-do-i-create-an-action-plan)
+- [How do I edit an action plan?](https://help.ambition.com/articles/3128480177-how-do-i-edit-an-action-plan)
+- [Who can interact with action plans?](https://help.ambition.com/articles/9316947803-who-can-interact-with-action-plans)
+- [Can employees skip required questions or tasks on their action plans?](https://help.ambition.com/articles/3191019877-can-employees-skip-required-questions-or-tasks-on-their-action-plans)
+- [Can a manager review an employee's action plan as soon as they complete it?](https://help.ambition.com/articles/3156366122-can-a-manager-review-an-employee-s-action-plan-as-soon-as-they-complete-it)
+- [Can employees change their answers after they’ve submitted an action plan?](https://help.ambition.com/articles/1903528511-can-employees-change-their-answers-after-they-ve-submitted-an-action-plan)
+- [An employee's action plan expired. Can I extend the due date or reopen the action plan?](https://help.ambition.com/articles/1338628481-an-employee-s-action-plan-expired-can-i-extend-the-due-date-or-reopen-the-action-plan)
+- [Can action plan progress be saved?](https://help.ambition.com/articles/8197533701-can-action-plan-progress-be-saved)
+
+### Notes
+
+- [How do I create a coaching note?](https://help.ambition.com/articles/7477256784-how-do-i-create-a-coaching-note)
+- [How do I edit a coaching note?](https://help.ambition.com/articles/4919265468-how-do-i-edit-a-coaching-note)
+- [Who can see shared and private notes?](https://help.ambition.com/articles/8973332298-who-can-see-shared-and-private-notes)
+- [Can I leave notes on a check-in once it has been completed?](https://help.ambition.com/articles/2996570790-can-i-leave-notes-on-a-check-in-once-it-has-been-completed)
+- [Will employee know if I leave a note on their check-in?](https://help.ambition.com/articles/2716421466-will-employee-know-if-i-leave-a-note-on-their-check-in)
+- [Can employees create coaching notes for themselves?](https://help.ambition.com/articles/6007298448-can-employees-create-coaching-notes-for-themselves)
+- [Can employees respond to shared notes?](https://help.ambition.com/articles/9145153110-can-employees-respond-to-shared-notes)
+- [How many file attachments can I add to a note?](https://help.ambition.com/articles/8140180011-how-many-file-attachments-can-i-add-to-a-note)
+- [What types of attachments can I add to my notes?](https://help.ambition.com/articles/8177128748-what-types-of-attachments-can-i-add-to-my-notes)
+
+### Programs
+
+- [How do I create a coaching program?](https://help.ambition.com/articles/5289530561-how-do-i-create-a-coaching-program)
+- [When creating a coaching program, who should I select as the participants?](https://help.ambition.com/articles/3867226665-when-creating-a-coaching-program-who-should-i-select-as-the-participants)
+- [How do I edit a coaching program?](https://help.ambition.com/articles/8829736004-how-do-i-edit-a-coaching-program)
+- [How do I pause a coaching program?](https://help.ambition.com/articles/5713228217-how-do-i-pause-a-coaching-program)
+- [How do I finish or end a coaching program?](https://help.ambition.com/articles/2794531363-how-do-i-finish-or-end-a-coaching-program)
+- [How do I set up and manage coaching programs on behalf of my managers?](https://help.ambition.com/articles/4215751530-how-do-i-set-up-and-manage-coaching-programs-on-behalf-of-my-managers)
+- [How do I create a managed coaching program?](https://help.ambition.com/articles/9269263170-how-do-i-create-a-managed-coaching-program)
+- [How do I edit a managed coaching program?](https://help.ambition.com/articles/2367050669-how-do-i-edit-a-managed-coaching-program)
+
+### Action Items
+
+- [How do I create an action item?](https://help.ambition.com/articles/5301307620-how-do-i-create-an-action-item)
+- [How do I edit an action item?](https://help.ambition.com/articles/1817154913-how-do-i-edit-an-action-item)
+- [How do I view and complete action items?](https://help.ambition.com/articles/6746360499-how-do-i-view-and-complete-action-items)
+
+### Customize
+
+- [How do I add custom tabs in coaching check-ins?](https://help.ambition.com/articles/9013639194-how-do-i-add-custom-tabs-in-coaching-check-ins)
+- [How do I customize and manage coaching check-in ratings?](https://help.ambition.com/articles/9793323980-how-do-i-customize-and-manage-coaching-check-in-ratings)
+
+### Coaching Analytics
+
+- [How do I access coaching reports & insights?](https://help.ambition.com/articles/7750978817-how-do-i-access-coaching-reports-insights)
+- [How do I export coaching data?](https://help.ambition.com/articles/1634398107-how-do-i-export-coaching-data)
+
+### Notifications
+
+- [What notifications will users receive about coaching?](https://help.ambition.com/articles/7629891219-what-notifications-will-users-receive-about-coaching)
+- [I am a manager for a group of managers. Will I receive notifications for check-ins my managers run?](https://help.ambition.com/articles/7804122632-i-am-a-manager-for-a-group-of-managers-will-i-receive-notifications-for-check-ins-my-managers-run)
+
+## Competitions
+
+- [What competitions can Ambition run?](https://help.ambition.com/articles/5970540120-what-competitions-can-ambition-run)
+- [What is a challenge?](https://help.ambition.com/articles/3643258994-what-is-a-challenge)
+- [What is an Ambition fantasy competition?](https://help.ambition.com/articles/7615387899-what-is-an-ambition-fantasy-competition)
+- [ Best Practices - Global Competitions](https://help.ambition.com/articles/2658118989-best-practices-global-competitions)
+
+### Create
+
+- ["Create Challenges" Permission](https://help.ambition.com/articles/7945435960-create-challenges-permission)
+- [How do I create a challenge?](https://help.ambition.com/articles/5530804195-how-do-i-create-a-challenge)
+- [How do I create a recurring challenge?](https://help.ambition.com/articles/9459486276-how-do-i-create-a-recurring-challenge)
+- [How do I create a fantasy competition?](https://help.ambition.com/articles/6349996645-how-do-i-create-a-fantasy-competition)
+- [How do I create a bracket competition? (Beta)](https://help.ambition.com/articles/9622684665-how-do-i-create-a-bracket-competition-beta)
+- [How can I use "Hidden Mode" to test my competition setup?](https://help.ambition.com/articles/9502903582-how-can-i-use-hidden-mode-to-test-my-competition-setup)
+- [What criteria can be used to award challenge prizes?](https://help.ambition.com/articles/9596831962-what-criteria-can-be-used-to-award-challenge-prizes)
+- [What are the options for how long or short a challenge can be?](https://help.ambition.com/articles/7602205977-what-are-the-options-for-how-long-or-short-a-challenge-can-be)
+- [What are the options for how long or short a fantasy competition can be?](https://help.ambition.com/articles/3324176629-what-are-the-options-for-how-long-or-short-a-fantasy-competition-can-be)
+- [How many competitors are needed for a fantasy competition?](https://help.ambition.com/articles/7826908233-how-many-competitors-are-needed-for-a-fantasy-competition)
+
+### Manage
+
+- [How do I duplicate a challenge?](https://help.ambition.com/articles/9348125339-how-do-i-duplicate-a-challenge)
+- [How do I edit a challenge?](https://help.ambition.com/articles/5238079499-how-do-i-edit-an-existing-challenge)
+- [How do I edit a fantasy competition?](https://help.ambition.com/articles/9641975395-how-do-i-edit-an-existing-fantasy-competition)
+- [How do I edit a bracket competition? (Beta)](https://help.ambition.com/articles/8287808149-how-do-i-edit-a-bracket-competition-beta)
+- [How do I export competition results?](https://help.ambition.com/articles/8139893351-how-do-i-export-competition-results)
+- [What happens when users are added to or removed from a challenge group?](https://help.ambition.com/articles/2105482573-what-happens-when-users-are-added-to-or-removed-from-a-challenge-group)
+- [How do I create or adjust a fantasy competition bracket?](https://help.ambition.com/articles/8510814075-how-do-i-create-or-adjust-a-fantasy-competition-bracket)
+- [What day of the week do new fantasy competition matchups begin?](https://help.ambition.com/articles/2568844454-what-day-of-the-week-do-new-fantasy-competition-matchups-begin)
+- [Can I preview a fantasy schedule before the competition begins?](https://help.ambition.com/articles/7545373673-can-i-preview-a-fantasy-schedule-before-the-competition-begins)
+- [Can I adjust the number of playoff weeks for a fantasy competition?](https://help.ambition.com/articles/1555110852-can-i-adjust-the-number-of-playoff-weeks-for-a-fantasy-competition)
+- [How do I reprocess results of a finished challenge?](https://help.ambition.com/articles/1441793023-how-do-i-reprocess-results-of-a-finished-challenge)
+
+### Interact
+
+- [How do I generate insights for challenges?](https://help.ambition.com/articles/7937673577-how-do-i-generate-insights-for-challenges)
+- [How do I view competitions?](https://help.ambition.com/articles/3044196465-how-do-i-view-competitions)
+- [How do I leave comments in competitions?](https://help.ambition.com/articles/9190401497-how-do-i-leave-comments-in-competitions)
+- [What do W/L, PF, PA, and Steak represent on a fantasy competition's "Standings" page?](https://help.ambition.com/articles/6901240101-what-do-w-l-pf-pa-and-steak-represent-on-a-fantasy-competition-s-standings-page)
+- [What is used as a tiebreaker in fantasy competitions?](https://help.ambition.com/articles/4310762874-what-is-used-as-a-tiebreaker-in-fantasy-competitions)
+- [What is the "Ambition Phantom" in a fantasy competition?](https://help.ambition.com/articles/1679328351-what-is-the-ambition-phantom-in-a-fantasy-competition)
+
+### Notifications
+
+- [What notifications will users receive about competitions?](https://help.ambition.com/articles/4771808351-what-notifications-will-users-receive-about-competitions)
+- [How will participants know about a competition?](https://help.ambition.com/articles/4019249796-how-will-participants-know-about-a-competition)
+
+### Examples
+
+- [What are some examples of recurring challenges?](https://help.ambition.com/articles/2590672188-what-are-some-examples-of-recurring-challenges)
+
+### Competition Scoring
+
+- [How are competition score projections calculated?](https://help.ambition.com/articles/4534548275-how-are-competition-score-projections-calculated)
+- [How are power hour or half-day competitions scored when using daily averages?](https://help.ambition.com/articles/7533088360-how-are-power-hour-or-half-day-challenges-scored-when-using-daily-averages)
+
+## Scorecards
+
+- [What is an Ambition Scorecard?](https://help.ambition.com/articles/1387695578-what-is-an-ambition-scorecard)
+- [What is an Activity Score?](https://help.ambition.com/articles/5432708910-what-is-an-activity-score)
+- [What is an Objective Score?](https://help.ambition.com/articles/8470720655-what-is-an-objective-score)
+- [Why is my scorecard blank?](https://help.ambition.com/articles/7609303049-why-is-my-scorecard-blank)
+- [Where can I see data that's not tracked on a scorecard?](https://help.ambition.com/articles/6378620192-can-i-see-data-that-s-not-tracked-on-my-scorecard)
+
+### Create
+
+- [How do I set up scorecards?](https://help.ambition.com/articles/4977963510-how-do-i-set-up-scorecards)
+- [How do I add "lower-is-better" metrics to scorecards?](https://help.ambition.com/articles/5042717113-how-do-i-add-lower-is-better-metrics-to-scorecards)
+- [Can I set different score time frames for different groups?](https://help.ambition.com/articles/2281451573-can-i-set-different-score-time-frames-for-different-groups)
+
+### Target Management
+
+- [How do I prorate scorecard targets for employees that are out of office?](https://help.ambition.com/articles/1275877375-how-do-i-prorate-scorecard-targets-for-users-that-are-out-of-office)
+- [How do I use historical data to set better scorecard targets?](https://help.ambition.com/articles/1919304958-how-do-i-use-historical-data-to-set-better-scorecard-targets)
+- [How do I set custom targets for an employee who is onboarding or ramping?](https://help.ambition.com/articles/2508363429-how-do-i-set-custom-targets-or-build-ramp-time-into-scorecards)
+- [What options do I have for uploading custom scorecard targets?](https://help.ambition.com/articles/8879558506-what-options-do-i-have-for-uploading-custom-scorecard-targets)
+- [How do I upload custom targets (single target, per metric, per row)?](https://help.ambition.com/articles/8117337020-how-do-i-upload-custom-targets-single-target-per-metric-per-row)
+- [How do I upload custom targets? (multiple targets, per metric, per row)?](https://help.ambition.com/articles/7539657985-how-do-i-upload-custom-targets-multiple-targets-per-metric-per-row)
+- [How do I upload custom targets (multiple targets, for multiple metrics, per row)?](https://help.ambition.com/articles/7388307160-how-do-i-upload-custom-targets-multiple-targets-for-multiple-metrics-per-row)
+- [Why would users in the same "Role" have different targets on their scorecards?](https://help.ambition.com/articles/6267376042-why-would-users-in-the-same-role-have-different-targets-on-their-scorecards)
+
+### Calculations
+
+- [What numbers are shown on a scorecard?](https://help.ambition.com/articles/7491379007-what-numbers-are-shown-on-a-scorecard)
+- [How is my personal scorecard calculated?](https://help.ambition.com/articles/7452094499-how-is-my-personal-scorecard-calculated)
+- [How can I view who is contributing to a group scorecard?](https://help.ambition.com/articles/3856183988-how-can-i-view-who-is-contributing-to-a-group-scorecard)
+- [How are group scorecards calculated?](https://help.ambition.com/articles/9325942642-how-are-group-scorecards-calculated)
+- [Why do group scorecard values differ from the "metrics" tab and analytics reporting?](https://help.ambition.com/articles/6238437387-why-do-group-scorecard-values-differ-from-the-metrics-tab-and-analytics-reporting)
+
+## Workflows
+
+- [What types of workflows can I create?](https://help.ambition.com/articles/4740780227-what-types-of-workflows-can-i-create)
+- [How will workflow notifications be formatted?](https://help.ambition.com/articles/9381599683-how-will-workflow-notifications-be-formatted)
+
+### Create
+
+- [How do I schedule a spreadsheet report?](https://help.ambition.com/articles/9895316854-how-do-i-schedule-a-spreadsheet-report)
+- [How do I schedule a coaching report?](https://help.ambition.com/articles/6060524681-how-do-i-schedule-a-coaching-report)
+- [How do I create a scheduled leaderboard workflow?](https://help.ambition.com/articles/7310229481-how-do-i-create-a-scheduled-leaderboard-workflow)
+- [How do I create a metric based alert workflow?](https://help.ambition.com/articles/7426955457-how-do-i-create-a-metric-based-alert-workflow)
+- [How do I create a records based alert workflow?](https://help.ambition.com/articles/5289328400-how-do-i-create-a-records-based-alert-workflow)
+- [How do I schedule a pipeline intelligence report?](https://help.ambition.com/articles/4733514878-how-do-i-scheduled-a-pipeline-intelligence-report)
+- [How do I create an integration health status alert?](https://help.ambition.com/articles/7827319795-how-do-i-create-an-integration-health-status-alert)
+
+### Manage
+
+- [How do I edit a workflow?](https://help.ambition.com/articles/7698100243-how-do-i-edit-a-workflow)
+- [How do I duplicate a workflow?](https://help.ambition.com/articles/5967928062-how-do-i-duplicate-a-workflow)
+- [How do I manage the GIF Library? ](https://help.ambition.com/articles/7603733812-how-can-i-edit-the-gifs-that-appear-in-workflows)
+- [How can I automatically display large GIFs in Ambition workflows sent to Slack?](https://help.ambition.com/articles/4095335243-how-can-i-automatically-display-large-gifs-in-ambition-workflows-sent-to-slack)
+- [How do I expire scheduled report workflow attachments?](https://help.ambition.com/articles/3889182007-how-do-i-expire-scheduled-report-workflow-attachments)
+
+## Leaderboards
+
+- [Where can I view a leaderboard?](https://help.ambition.com/articles/2193766300-where-can-i-view-a-leaderboard)
+- [What is a percent-to-target leaderboard?](https://help.ambition.com/articles/6737676314-what-is-a-percent-to-target-leaderboard)
+- [What is the most improved leaderboard?](https://help.ambition.com/articles/7556403992-what-is-the-most-improved-leaderboard)
+- [How do I create saved filters for a leaderboard?](https://help.ambition.com/articles/8509754627-how-do-i-create-saved-filters-for-a-leaderboard)
+
+## Dashboards
+
+- [How do I interact with the dashboard tabs?](https://help.ambition.com/articles/4801408985-how-do-i-interact-with-the-dashboard-tabs)
+- [How do I create a dashboard?](https://help.ambition.com/articles/7741725492-how-do-i-create-a-dashboard)
+- [How can I set what page I see upon login?](https://help.ambition.com/articles/6746730008-how-can-i-set-what-page-i-see-upon-login)
+- [How do I save a default view for the metrics tab?](https://help.ambition.com/articles/4827238368-how-do-i-save-a-default-view-for-the-metrics-tab)
+- [Can I change the order of tabs on my dashboard?](https://help.ambition.com/articles/3291099712-can-i-change-the-order-of-tabs-on-my-dashboard)
+- [Can dashboards be translated into different languages for my team members?](https://help.ambition.com/articles/9611340576-can-dashboards-be-translated-into-different-languages-for-my-team-members)
+
+### Personal Dashboard
+
+- [How can I interact with my employee dashboard?](https://help.ambition.com/articles/9798288896-how-can-i-interact-with-my-employee-dashboard)
+
+### Managerial Dashboard
+
+- [How do I interact with my managerial dashboard?](https://help.ambition.com/articles/9862447892-how-do-i-interact-with-my-managerial-dashboard)
+- [How do I access and interact with my manager homepage?](https://help.ambition.com/articles/1268439193-how-do-i-access-and-interact-with-my-manager-homepage)
+- [How can I find users I manage on dashboards?](https://help.ambition.com/articles/3639395842-how-can-i-find-users-i-manage-on-dashboards)
+- [Best Practices - Viewing my team's data in Ambition](https://help.ambition.com/articles/8092612571-best-practices-viewing-my-team-s-data-in-ambition)
+
+### Organizational Dashboard
+
+- [How do I interact with the organization dashboard?](https://help.ambition.com/articles/6739312842-how-do-i-interact-with-the-organization-dashboard)
+
+## Pipeline
+
+- [How do I create and save a pipeline view?](https://help.ambition.com/articles/1111571522-how-do-i-create-and-save-a-pipeline-view)
+- [How do I create and share a pipeline view template?](https://help.ambition.com/articles/5208252251-how-do-i-create-and-share-a-pipeline-view-template)
+- [How do I interact with pipeline views?](https://help.ambition.com/articles/6090555870-how-do-i-interact-with-pipeline-views)
+- [How do I manage the data that's available to use within pipeline views?](https://help.ambition.com/articles/3650737759-how-do-i-manage-the-data-that-s-available-to-use-within-pipeline-views)
+
+## Goals
+
+- [What do I need to know about goals?](https://help.ambition.com/articles/1529270156-what-do-i-need-to-know-about-goals)
+- [Quick Start Guide - Goals](https://help.ambition.com/articles/1898587580-quick-start-guide-goals)
+- [Goals Best Practice - SMART Goals](https://help.ambition.com/articles/5980460666-goals-best-practice-smart-goals)
+- [What notifications will users receive about goals?](https://help.ambition.com/articles/8973483004-what-notifications-will-users-receive-about-goals)
+
+### Create
+
+- [How do I create a goal?](https://help.ambition.com/articles/4824504277-how-do-i-create-a-goal)
+- [Can I create an individual goal for multiple people at the same time?](https://help.ambition.com/articles/5280616532-can-i-create-an-individual-goal-for-multiple-people-at-the-same-time)
+
+### Manage
+
+- [How do I edit goals?](https://help.ambition.com/articles/3843690395-how-do-i-edit-goals)
+- [How do I monitor my team's goals?](https://help.ambition.com/articles/1234708805-how-do-i-monitor-my-team-s-goals)
+- [How do I add progress for a manual input goal?](https://help.ambition.com/articles/3770967843-how-do-i-add-progress-for-a-manual-input-goal)
+- [Can I set or update goal targets through CSV upload?](https://help.ambition.com/articles/6210209747-can-i-set-or-update-goal-targets-through-csv-upload)
+- [How do I export goal data?](https://help.ambition.com/articles/8921994691-how-do-i-export-goal-data)
+
+### Interact
+
+- [Where can I see goals I'm participating in?](https://help.ambition.com/articles/2828365493-where-can-i-see-goals-i-m-participating-in)
+- [Who can view and edit private goals?](https://help.ambition.com/articles/5063979535-who-can-view-and-edit-private-goals)
+
+## Accolades
+
+- [What are accolades?](https://help.ambition.com/articles/5548422129-what-are-accolades)
+- [How do I create an accolade?](https://help.ambition.com/articles/6563532086-how-do-i-create-an-accolade)
+- [How do I edit accolades?](https://help.ambition.com/articles/6596531049-how-do-i-edit-accolades)
+- [How do I view accolades I've earned?](https://help.ambition.com/articles/9922890004-how-do-i-view-accolades-i-ve-earned)
+- [Where can I view all accolades and accolade achievements?](https://help.ambition.com/articles/3093420038-where-can-i-view-all-accolades-and-accolade-achievements)
+- [How do I export accolade achievement data?](https://help.ambition.com/articles/4369995026-how-do-i-export-accolade-achievement-data)
+- [How do I give an "Employee Discretion" accolade to another user?](https://help.ambition.com/articles/4988940072-how-do-i-give-an-employee-discretion-accolade-to-another-user)
+- [How do I pin accolade achievements to my dashboard?](https://help.ambition.com/articles/7401578880-how-do-i-pin-accolade-achievements-to-my-dashboard)
+- [How do I socially share an accolade?](https://help.ambition.com/articles/5362506513-how-do-i-socially-share-an-accolade)
+- [How do I leave a comment on an accolade achievement?](https://help.ambition.com/articles/5960987672-how-do-i-leave-a-comment-on-an-accolade-achievement)
+- [What notifications will users receive about accolades?](https://help.ambition.com/articles/6190476004-what-notifications-will-users-receive-about-accolades)
+
+## TVs
+
+- [What makes up a TV?](https://help.ambition.com/articles/1601175656-what-makes-up-a-tv)
+- [ Quick Start Guide - TVs](https://help.ambition.com/articles/7707423491-quick-start-guide-tvs)
+- [How do I display a TV?](https://help.ambition.com/articles/8314886748-how-do-i-display-a-tv)
+- [How can I display a TV if my device doesn't support password-based authentication?](https://help.ambition.com/articles/4273107736-how-can-i-display-a-tv-if-my-device-doesn-t-support-password-based-authentication)
+
+### Create
+
+- [How do I create a TV?](https://help.ambition.com/articles/9862823246-how-do-i-create-a-tv)
+- [What types of TV slides can I create?](https://help.ambition.com/articles/1574888338-what-types-of-tv-slides-can-i-create)
+- [How do I create and edit a shared slide?](https://help.ambition.com/articles/6133989701-how-do-i-create-and-edit-a-shared-slide)
+- [How do I create an Accolade Achievement Slide?](https://help.ambition.com/articles/7299426764-how-do-i-create-an-accolade-achievement-slide)
+- [How do I create an Anniversary Slide?](https://help.ambition.com/articles/6462056942-how-do-i-create-an-anniversary-slide)
+- [How do I create a Birthday Slide?](https://help.ambition.com/articles/5824155253-how-do-i-create-a-birthday-slide)
+- [How do I create a Competition Slide?](https://help.ambition.com/articles/2600883310-how-do-i-create-a-competition-slide)
+- [How do I create a Goal Slide?](https://help.ambition.com/articles/7317272223-how-do-i-create-a-goal-slide)
+- [How do I create a Graph Slide?](https://help.ambition.com/articles/1281387727-how-do-i-create-a-graph-slide)
+- [How do I create a Leaderboard TV Slide?](https://help.ambition.com/articles/3874623235-how-do-i-create-a-leaderboard-tv-slide)
+- [How do I create a Message Slide?](https://help.ambition.com/articles/4738090218-how-do-i-create-a-message-slide)
+- [How do I create a Metric Slide?](https://help.ambition.com/articles/6505612428-how-do-i-create-a-metric-slide)
+- [How do I create a Multimedia Slide?](https://help.ambition.com/articles/2071647985-how-do-i-create-a-multimedia-slide)
+
+### Manage
+
+- [How do I edit a TV?](https://help.ambition.com/articles/1645234192-how-do-i-edit-a-tv)
+- [How do I apply custom branding to TVs?](https://help.ambition.com/articles/5737144340-how-do-i-apply-custom-branding-to-tvs)
+- [What is TV "presentation mode" and how is it activated?](https://help.ambition.com/articles/4700360641-what-is-tv-presentation-mode-and-how-is-it-activated)
+- [How do I customize the quotes at the bottom of a TV?](https://help.ambition.com/articles/7318545254-how-do-i-customize-the-quotes-at-the-bottom-of-a-tv)
+
+## Analytics
+
+- [How do I access analytics?](https://help.ambition.com/articles/3013734135-how-do-i-access-analytics)
+
+### Spreadsheet
+
+- [How do I access and use spreadsheet reporting?](https://help.ambition.com/articles/9219801992-how-do-i-access-and-use-spreadsheet-reporting)
+- [How can I use the different time frame options to analyze spreadsheet data?](https://help.ambition.com/articles/8236924575-how-can-i-use-the-different-time-frame-options-to-analyze-spreadsheet-data)
+- [How do I save a spreadsheet report?](https://help.ambition.com/articles/8248013868-how-do-i-save-a-spreadsheet-report)
+- [How do I export spreadsheet data?](https://help.ambition.com/articles/4041409410-how-do-i-export-spreadsheet-data)
+
+### Graph
+
+- [How do I access and use graph reporting?](https://help.ambition.com/articles/9880570627-how-do-i-access-and-use-graph-reporting)
+- [How do I save a graph report?](https://help.ambition.com/articles/2460963262-how-do-i-save-a-graph-report)
+- [How do I export graph data?](https://help.ambition.com/articles/2992256554-how-do-i-export-graph-data)
+
+### Quadrant
+
+- [How do I access and use quadrant reporting?](https://help.ambition.com/articles/3363126932-how-do-i-access-and-use-quadrant-reporting)
+- [How do I save a quadrant report?](https://help.ambition.com/articles/1017942884-how-do-i-save-a-quadrant-report)
+- [How do I export quadrant data?](https://help.ambition.com/articles/4239934040-how-do-i-export-quadrant-data)
+
+### Histogram
+
+- [How do I access and use histogram reporting?](https://help.ambition.com/articles/7929777682-how-do-i-access-and-use-histogram-reporting)
+- [How do I save a histogram report?](https://help.ambition.com/articles/1805208474-how-do-i-save-a-histogram-report)
+- [How do I export histogram data?](https://help.ambition.com/articles/8502878921-how-do-i-export-histogram-data)
+
+## Asks
+
+- [What are employee asks?](https://help.ambition.com/articles/9773534760-what-are-employee-asks)
+- [How do I create an ask?](https://help.ambition.com/articles/7463197679-how-do-i-create-an-ask)
+- [How do I review asks that have been submitted for me to complete?](https://help.ambition.com/articles/5257199107-how-do-i-review-asks-that-have-been-submitted-for-me-to-complete)
+- [How do I review the "asks" I've submitted to my manager?](https://help.ambition.com/articles/9182992416-how-do-i-review-the-asks-i-ve-submitted-to-my-manager)
+
+## AI Assistant
+
+- [How do I interact with the AI Assistant?](https://help.ambition.com/articles/8383187517-how-do-i-interact-with-the-ai-assistant)
+
+## Getting Started
+
+
+### Part I: Ambition Foundations
+
+- [Build Metrics and Validate Data](https://help.ambition.com/articles/5271754178-build-metrics-and-validate-data)
+- [Enable an Integration in Ambition](https://help.ambition.com/articles/8111216920-enable-an-integration-in-ambition)
+- [Import Historical Data](https://help.ambition.com/articles/6671855768-import-historical-data)
+- [Organization Settings](https://help.ambition.com/articles/1376275847-organization-settings)
+- [Users, Groups, and Permissions](https://help.ambition.com/articles/2200969141-users-groups-and-permissions)
+- [Validate Data Transmission](https://help.ambition.com/articles/7106283312-validate-data-transmission)
+
+### Part II: Drive Revenue Performance
+
+- [Accountability Features](https://help.ambition.com/articles/8516637200-accountability-features)
+- [Amplification Features](https://help.ambition.com/articles/7216943306-amplification-features)
+- [Encouragement Features](https://help.ambition.com/articles/4516166711-encouragement-features)
+
+### User Overview
+
+- [What do I need to know about using Ambition?](https://help.ambition.com/articles/3008686718-what-do-i-need-to-know-about-using-ambition)
+
+### Managers
+
+- [Frontline Managers: Setting Up Your Profile](https://help.ambition.com/articles/3433732384-setting-up-your-profile-managers)
+- [Frontline Managers: Manager Dashboard and Homepage](https://help.ambition.com/articles/9608254176-manager-dashboard-and-homepage)
+- [Frontline Managers: Start Coaching Your Team](https://help.ambition.com/articles/6865379668-frontline-managers-start-coaching-your-te)
+- [Frontline Managers: Gamify Your Data](https://help.ambition.com/articles/7630322744-frontline-managers-gamify-your-data)
+
+## FAQ
+
+- [What are "hierarchy levels" and which level should I select?](https://help.ambition.com/articles/2593680677-what-are-hierarchy-levels-and-which-level-should-i-select)
+- [What do the time frames in Ambition represent?](https://help.ambition.com/articles/7417800277-what-do-the-time-frames-in-ambition-represent)
+- [Why is my historical data missing from Ambition?](https://help.ambition.com/articles/3467127894-why-is-my-historical-data-missing-from-ambition)
+- [What if I notice my data is wrong?](https://help.ambition.com/articles/3148022559-what-if-i-notice-my-data-is-wrong)
+- [What time zones does Ambition support?](https://help.ambition.com/articles/7639358978-what-time-zones-does-ambition-support)
+- [What browsers does Ambition support?](https://help.ambition.com/articles/3361060620-what-browsers-does-ambition-support)
+- [Can Ambition's interface be translated into different languages?](https://help.ambition.com/articles/3055301300-can-ambition-s-interface-be-translated-into-different-languages)
+- [Why do I get an error when uploading a profile image?](https://help.ambition.com/articles/8307589081-why-do-i-get-an-error-when-uploading-a-profile-image)
+- [Why are anthems not playing?](https://help.ambition.com/articles/1563277082-troubleshooting-anthems-not-playing)
+- [Why is Ambition blank?](https://help.ambition.com/articles/3265055612-troubleshooting-ambition-is-blank)
+- [Why is my Ambition score so low?](https://help.ambition.com/articles/7671255047-troubleshooting-user-s-ambition-score-is-low)
+- [What is Ambition's maintenance and release schedule?](https://help.ambition.com/articles/5498763226-what-is-ambition-s-maintenance-and-release-schedule)
+- [How can I view Google Analytics data within Ambition?](https://help.ambition.com/articles/3029713222-how-can-i-view-google-analytics-data-within-ambition)
+- [How can I update the payment method on file?](https://help.ambition.com/articles/4596807383-how-can-i-update-payment-method-on-file-for-our-ambition-instance)
+
+### Glossary
+
+- [Ambition Features](https://help.ambition.com/articles/2948153833-ambition-features)
+- [Ambition Vocabulary](https://help.ambition.com/articles/8809657625-ambition-terminology)
+
+## Release Notes
+
+- [Release Notes 2026](https://help.ambition.com/articles/4843739102-release-notes-2026)
+- [Release Notes 2025](https://help.ambition.com/articles/3641859353-release-notes-2025)
+- [Release Notes 2024](https://help.ambition.com/articles/9927187272-release-notes-2024)
+- [Release Notes 2023](https://help.ambition.com/articles/9133651712-release-notes-2023)
+
+## New Coaching Experience
+
+- [Where Can I Find My Legacy Coaching Events in the New Coaching Experience? ](https://help.ambition.com/articles/4633906160-where-can-i-find-my-legacy-coaching-events-in-the-new-coaching-experience)
+- [How Can I Create All of My Ambition Coaching Events with the New Coaching Experience?](https://help.ambition.com/articles/2829088120-which-decisions-do-i-make-in-the-new-form-to-create-an-old-coaching-object)
+
+### Agenda Items
+
+- [Which Agenda Items Can I Use in Sessions, Programs, and Cadences?](https://help.ambition.com/articles/4835998514-what-are-the-coaching-agenda-items-options)
+- [Which Agenda Items Types Can I Use in a Group Session?](https://help.ambition.com/articles/7669480363-what-agenda-items-types-can-i-use-in-a-group-session)
+- [Chart: Which Agenda Items Can I Use with Each of the Coaching Conversation Types?](https://help.ambition.com/articles/9109684970-which-agenda-item-can-i-use-for-sessions-programs-and-cadences)
+- [FAQ: Metric Snapshot Agenda Items](https://help.ambition.com/articles/7772386111-how-do-metric-snapshot-agenda-items-work%3F)
+
+### Sessions
+
+
+#### Create Sessions
+
+- [Where Can I Search for Sessions?](https://help.ambition.com/articles/9204471432-where-can-i-search-for-sessions)
+- [What Can Managers Do in Sessions?](https://help.ambition.com/articles/8976053906-what-can-managers-do-in-sessions)
+- [How Do I Create a Single Coaching Session?](https://help.ambition.com/articles/9822108449-how-do-i-create-a-single-coaching-session)
+- [How Do I Add a Co-Coach to a Single Coaching Session?](https://help.ambition.com/articles/2068412735-how-do-i-add-a-co-coach-to-a-single-coaching-session)
+- [How Do I Access Gong Call Recordings in a Coaching Session?](https://help.ambition.com/articles/3802924014-how-do-i-access-gong-call-recordings-in-a-coaching-session)
+- [How Do I Add a Video Conference Link to My Coaching Session?](https://help.ambition.com/articles/6324708067-how-do-i-add-a-video-conference-link-to-my-coaching-session)
+- [What Is a Co-Coach and What Can They Do?](https://help.ambition.com/articles/1630503083-what-is-a-co-coach-and-what-can-they-do)
+- [How Do I Create Saved Filters for Sessions?](https://help.ambition.com/articles/8560348100-how-do-i-create-saved-filters-for-sessions)
+- [How Do I Add Custom Tabs to Coaching Sessions?](https://help.ambition.com/articles/1401474960-how-do-i-add-custom-tabs-to-coaching-sessions)
+
+#### Edit Sessions
+
+- [What Can I Edit in a Coaching Session?](https://help.ambition.com/articles/6343495348-what-can-i-edit-in-a-coaching-session)
+- [How Do I Edit a Coaching Session?](https://help.ambition.com/articles/1991507989-how-do-i-edit-a-coaching-session)
+
+#### Complete Sessions
+
+- [How Do I Complete Coaching Sessions as the Employee?](https://help.ambition.com/articles/4729269129-how-do-i-complete-coaching-sessions-as-the-employee)
+- [How Do I Approve My Employee's Session?](https://help.ambition.com/articles/5545210191-how-do-i-approve-my-employee-s-session)
+- [How Can I Remind My Employee to Complete Their Session?](https://help.ambition.com/articles/5378832480-how-can-i-remind-my-employee-to-complete-their-session)
+- [How Can I Ask an Employee for More Context in Their Session Replies?](https://help.ambition.com/articles/9049077697-how-can-i-ask-an-employee-for-more-context-in-their-session-replies)
+- [How Do I Excuse a Coaching Session?](https://help.ambition.com/articles/8547702068-how-do-i-excuse-a-coaching-session)
+- [How Do I Extend a Session's Due Date?](https://help.ambition.com/articles/3352244200-how-do-i-extend-a-session-s-due-date)
+- [My Coaching Session Expired. How Can I Have It Re-Opened?](https://help.ambition.com/articles/7594841054-my-coaching-session-expired-how-can-i-have-it-re-opened)
+- [How Do I Re-Open an Expired Coaching Session?](https://help.ambition.com/articles/5719361395-how-do-i-re-open-an-expired-coaching-session)
+
+#### Rating Categories
+
+- [What are Coaching Ratings Categories?](https://help.ambition.com/articles/2165849141-what-are-coaching-rating-categories)
+- [How Do I Rate a Session?](https://help.ambition.com/articles/7074394328-how-do-i-rate-a-session)
+- [How Do I Edit a Session Rating?](https://help.ambition.com/articles/4047467226-how-do-i-edit-a-session-rating)
+
+### Group Sessions
+
+- [How Do I Create a Group Session?](https://help.ambition.com/articles/3891799119-how-do-i-create-a-group-session)
+- [Who Can Interact with Group Sessions?](https://help.ambition.com/articles/9408218713-who-can-interact-with-group-sessions)
+- [How Can I Give Group Session Participants Early Access?](https://help.ambition.com/articles/5952541730-how-can-i-give-group-session-participants-early-access)
+- [How Do I Mark a Group Session as Completed?](https://help.ambition.com/articles/9027191009-how-do-i-mark-a-group-session-as-completed)
+
+### Recurring Coaching Programs
+
+- [How Do I Create a Recurring Coaching Program?](https://help.ambition.com/articles/9983980838-how-do-i-create-a-recurring-coaching-program)
+- [How Do I Create a No Meeting Recurring Coaching Program?](https://help.ambition.com/articles/4200904269-how-do-i-create-a-no-meeting-recurring-coaching-program)
+- [Who Should I Pick as the Recurring Coaching Program Participants?](https://help.ambition.com/articles/4544314144-who-should-i-pick-as-the-recurring-coaching-program-participants)
+- [How Do I Edit a Recurring Coaching Program?](https://help.ambition.com/articles/2913398642-how-do-i-edit-a-recurring-coaching-program)
+- [How Do I Pause a Recurring Coaching Program?](https://help.ambition.com/articles/6212992703-how-do-i-pause-a-recurring-coaching-program)
+- [How Do I Finish a Recurring Coaching Program?](https://help.ambition.com/articles/7009847663-how-do-i-finish-a-recurring-coaching-program)
+
+### Managed Programs
+
+- [How Do I Create a Managed Recurring Coaching Program?](https://help.ambition.com/articles/5660970776-how-do-i-create-a-managed-recurring-coaching-program)
+
+### Cadences
+
+
+#### Create Cadences
+
+- [How Do I Create a Coaching Cadence?](https://help.ambition.com/articles/9709809284-how-do-i-create-a-coaching-cadence)
+- [How Do I Add Employees to a Coaching Cadence?](https://help.ambition.com/articles/6638710050-how-do-i-add-employees-to-a-coaching-cadence)
+- [How Do I Assign a Manager in a Cadence?](https://help.ambition.com/articles/9125580711-how-do-i-assign-a-manager-in-a-cadence)
+- [How Do I Assign a Co-Coach in a Cadence?](https://help.ambition.com/articles/5261903653-how-do-i-assign-a-co-coach-in-a-cadence)
+
+#### Edit Cadences
+
+- [What Can I Edit in a Cadence?](https://help.ambition.com/articles/7227114135-what-can-i-edit-in-a-cadence)
+- [How Do I Edit a Cadence?](https://help.ambition.com/articles/3744721314-how-do-i-edit-a-cadence)
+- [How Do I Add, Edit, and Delete Agenda Items from a Cadence Step?](https://help.ambition.com/articles/8085527770-how-do-i-edit-a-cadence-step)
+- [How Do I Re-Order Cadence Steps?](https://help.ambition.com/articles/4095567571-how-do-i-re-order-cadence-steps)
+- [How Do I Add or Remove Steps in a Cadence?](https://help.ambition.com/articles/7410159708-how-do-i-add-steps-to-a-cadence)
+- [How Do I Duplicate a Cadence?](https://help.ambition.com/articles/9479071853-how-do-i-duplicate-a-cadence)
+- [What Happens When I Edit the Agenda Items in an Open Cadence?](https://help.ambition.com/articles/3078994847-what-happens-when-i-edit-the-agenda-items-in-an-open-cadence)
+- [How Do I Change a Cadence's Owner?](https://help.ambition.com/articles/7692833137-how-do-i-change-a-cadence-s-owner)
+- [How Do I Remove Employees from Cadences?](https://help.ambition.com/articles/2270198284-how-do-i-remove-employees-from-cadences)
+- [What Happens When a Cadence is Closed?](https://help.ambition.com/articles/1301827275-what-happens-when-a-cadence-is-closed)
+- [How Do I Close a Cadence?](https://help.ambition.com/articles/6486695062-how-do-i-close-a-cadence)
+
+#### Cadence Effectiveness
+
+- [What is the Cadence Effectiveness Tab?](https://help.ambition.com/articles/3800602162-what-is-the-cadence-effectiveness-tab)
+- [How Can I View Cadence Effectiveness Information for Specific Employees or Timeframes?](https://help.ambition.com/articles/3958343018-how-can-i-view-cadence-effectiveness-information-for-specific-employees-or-timeframes)
+- [How Do I Change the Metrics Tracked in a Cadence?](https://help.ambition.com/articles/9286356187-how-do-i-change-the-metrics-tracked-in-a-cadence)
+
+#### Cadences FAQ
+
+- [How Do I Track an Employee's Cadence Progress?](https://help.ambition.com/articles/6551003215-how-do-i-track-an-employee-s-cadence-progress)
+- [How Does Being a Cadence Manager Affect Your Reporting Hierarchy and Coaching Analytics?](https://help.ambition.com/articles/3292676003-how-does-being-a-cadence-manager-affect-your-reporting-hierarchy-and-coaching-analytics)
+
+### Notes
+
+
+#### Create Notes
+
+- [What Are Coaching Notes?](https://help.ambition.com/articles/6002218861-what-are-coaching-notes)
+- [How Do I Created a Shared Coaching Note?](https://help.ambition.com/articles/4794361621-how-do-i-create-a-shared-coaching-note)
+- [How Do I Create a Private Coaching Note?](https://help.ambition.com/articles/8529336520-how-do-i-create-a-private-coaching-note)
+- [What Types of Attachments Can I Add to Notes?](https://help.ambition.com/articles/2300577555-what-types-of-attachments-can-i-add-to-notes)
+- [How Many Attachments Can I Add to a Note?](https://help.ambition.com/articles/8818454827-how-many-attachments-can-i-add-to-a-note)
+- [Can Employees Create Notes for Themselves?](https://help.ambition.com/articles/7392771134-can-employees-create-notes-for-themselves)
+- [Can I Create a Note on a Completed Session?](https://help.ambition.com/articles/2415325212-can-i-create-a-note-on-a-completed-session)
+
+#### Edit Notes
+
+- [How Do I Edit a Note?](https://help.ambition.com/articles/5167771703-how-do-i-edit-a-note)
+- [How Do I Change a Note's Shared/Private Status?](https://help.ambition.com/articles/4103859721-how-do-i-change-a-note-s-shared-private-status)
+- [How Can I Leave Comments on Notes?](https://help.ambition.com/articles/8123743440-how-can-i-leave-comments-on-notes)
+- [How Do I Delete a Note?](https://help.ambition.com/articles/5023062394-how-do-i-delete-a-note)
+
+#### Notes FAQ
+
+- [Who Can View Shared and Private Notes?](https://help.ambition.com/articles/1123325583-who-can-view-shared-and-private-notes)
+- [Where Can I View Notes I Created?](https://help.ambition.com/articles/5316338662-where-can-i-view-notes-i-created)
+- [Where Can I View Notes Shared with Me?](https://help.ambition.com/articles/7180598736-where-can-i-view-notes-shared-with-me)
+- [Will My Employee Know if I Create a Note for Them?](https://help.ambition.com/articles/3177586299-will-my-employee-know-if-i-create-a-note-for-them)
+
+### Coaching Notifications
+
+- [What Coaching Notifications Will I Receive?](https://help.ambition.com/articles/3001928567-what-coaching-notifications-will-i-receive)
+- [Coaching Session Notifications](https://help.ambition.com/articles/9430890946-coaching-session-notifications)
+- [Program Notifications](https://help.ambition.com/articles/9490766516-program-notifications)
+- [Group Session Notifications](https://help.ambition.com/articles/3243594284-group-session-notifications)
+- [Cadence Notifications](https://help.ambition.com/articles/6747771185-cadence-notifications)
+- [Shared Note Notifications](https://help.ambition.com/articles/4318886166-shared-note-notifications)
+- [Action Item Notifications](https://help.ambition.com/articles/8622879860-action-item-notifications)
+- [Action Plan Notifications](https://help.ambition.com/articles/3012622579-action-plan-notifications)
+- [I Manage Other Managers. Will I Receive Notifications About Sessions That They Run?](https://help.ambition.com/articles/3063185119-i-manage-other-managers-will-i-receive-notifications-about-sessions-that-they-run)
+
+### Action Items
+
+- [Where Can I View Action Items?](https://help.ambition.com/articles/8699258379-where-can-i-view-action-items)
+- [How Do I Create an Action Item?](https://help.ambition.com/articles/9508800061-how-do-i-create-an-action-item)
+- [How Do I Edit an Action Item?](https://help.ambition.com/articles/9719748891-how-do-i-edit-an-action-item)
+- [How Do I Delete an Action Item?](https://help.ambition.com/articles/8016212968-how-do-i-delete-an-action-item)
+- [How Do I Assign an Action Item to Multiple Employees?](https://help.ambition.com/articles/4257722609-how-do-i-assign-an-action-item-to-multiple-employees)
+- [How Do I Complete an Action Item as the Recipient?](https://help.ambition.com/articles/5909399661-how-do-i-complete-an-action-item-as-the-recipient)
+- [How Do I Mark an Action Item as Complete as the Creator?](https://help.ambition.com/articles/8509914103-how-do-i-mark-an-action-item-as-complete-as-the-creator)
+- [How Do I Mark an Action Item as Incomplete as the Recipient?](https://help.ambition.com/articles/1300050607-how-do-i-mark-an-action-item-as-incomplete-as-the-recipient)
+- [How Do I Mark an Action Item as Incomplete as the Creator?](https://help.ambition.com/articles/9682851030-how-do-i-mark-an-action-item-as-incomplete-as-the-creator)
+
+### Coaching Analytics
+
+- [What Are Coaching Analytics?](https://help.ambition.com/articles/5262558569-what-are-coaching-analytics)
+- [How Do I Use the Accountability Tab in Coaching Analytics?](https://help.ambition.com/articles/8899246987-how-do-i-use-the-accountability-tab-in-coaching-analytics)
+- [How Do I Use the Coaching Analytics Insights Tab?](https://help.ambition.com/articles/5083885601-how-do-i-use-the-coaching-analytics-insights-tab)
+- [How Do I Use the Coaching Analytics Program Attribution Tab?](https://help.ambition.com/articles/5287380847-how-do-i-use-the-coaching-analytics-program-attribution-tab)
+- [How Do I I Use the Coaching Analytics Ratings Tab?](https://help.ambition.com/articles/8276844472-how-do-i-i-use-the-coaching-analytics-ratings-tab)
+- [How Do I Download Coaching Data on the Coaching Analytics Reports Tab?](https://help.ambition.com/articles/1272408813-how-do-i-download-coaching-data)
+- [What Is Included in the Coaching Analytics Employee Utilization Report?](https://help.ambition.com/articles/8726043109-what-is-included-in-the-coaching-analytics-employee-utilization-report)
+- [What Is Included in the Coaching Analytics Manager Utilization Report?](https://help.ambition.com/articles/7370578409-what-is-included-in-the-coaching-analytics-manager-utilization-report%3F)
+- [What Is Included in the Coaching Analytics Program Report?](https://help.ambition.com/articles/9242256200-what-is-included-in-the-coaching-analytics-program-report)
+
+### Pre-Reads
+
+- [What Information Does a Coaching Pre-Read Use?](https://help.ambition.com/articles/8086176416-what-information-does-a-coaching-pre-read-use)
+- [How Do I Generate a Coaching Pre-Read for Sessions?](https://help.ambition.com/articles/8856554358-how-do-i-generate-a-coaching-pre-read-for-sessions)
+
+### Coaching Templates
+
+- [How Do I Create a Coaching Template?](https://help.ambition.com/articles/9871023712-how-do-i-create-a-coaching-template)
+- [How Do I Edit a Coaching Template?](https://help.ambition.com/articles/8405678779-how-do-i-edit-a-coaching-template)
+- [How Do I Duplicate a Coaching Template?](https://help.ambition.com/articles/6963018726-how-do-i-duplicate-a-coaching-template)
+- [What's the Difference Between a Locked and Unlocked Template?](https://help.ambition.com/articles/9123196007-what-s-the-difference-between-a-locked-and-unlocked-template)
+
+### Historic Coaching Data
+
+- [Where Do I View Previously Uploaded Coaching Data?](https://help.ambition.com/articles/5326410028-where-do-i-view-previously-uploaded-coaching-data)
+
+### Coaching Settings, Visibility, and Permissions
+
+
+#### Definitions
+
+- [What Does The Coaching: All Access Permission Allow Me To Do?](https://help.ambition.com/articles/6438712579-what-does-the-coaching-all-access-permission-allow-me-to-do)
+- [What Are The Two Coaching Visibility Options?](https://help.ambition.com/articles/9282763708-what-are-the-two-coaching-visibility-options)
+- [What Are The Two Coaching Data Protection Options?](https://help.ambition.com/articles/6815050983-what-are-the-two-coaching-data-protection-options)
+- [What Are The Two Coaching Access Options?](https://help.ambition.com/articles/4459010564-what-are-the-two-coaching-access-options)
+- [How Do Coaching Permission And Visibility Options Work?](https://help.ambition.com/articles/9684497594-how-do-coaching-permissions-and-visibility-options-work)
+- [Who Can Delete Coaching Sessions and Programs?](https://help.ambition.com/articles/8290042721-who-can-delete-coaching-sessions-and-programs)
+
+#### Change Settings
+
+- [How Do I Show Session Ratings to Employees?](https://help.ambition.com/articles/9511987973-how-do-I-show-session-ratings-to-employees)
+- [How Do I Give Someone Coaching: All Access Permission?](https://help.ambition.com/articles/3046597397-how-do-i-give-someone-coaching-all-access-permission)
+
+## Agentic Ambition
+
+
+### Getting Started
+
+- [Ambition Glossary and Key Concepts](https://help.ambition.com/articles/1493571262-ambition-glossary-and-key-concepts)
+
+### Hub
+
+
+#### Home Page
+
+- [Can I Use the Home Page Feature if My Organization Doesn't Allow AI?](https://help.ambition.com/articles/8931729250-can-i-still-use-the-homepage-if-my-organization-doesn-t-allow-ai)
+- [What Can I View on the Hub's Home Page?](https://help.ambition.com/articles/3665327291-what-can-i-view-on-the-hub-s-home-page)
+- [How Do I Organize or Hide Content on My Home Page?](https://help.ambition.com/articles/4277732615-how-do-i-organize-or-hide-content-on-my-home-page)
+- [Where Do the Skills on My Home Page Come From?](https://help.ambition.com/articles/7944616373-home-page-skills-source)
+
+#### Favorite Pages
+
+- [How Do I Save Favorite Pages?](https://help.ambition.com/articles/2474755630-how-do-i-add-favorites)
+- [How Do I Organize My Favorite Pages?](https://help.ambition.com/articles/7839712272-how-do-i-organize-my-favorite-pages)
+- [How Do I Remove a Page from My Favorites?](https://help.ambition.com/articles/9220260926-remove-favorites)
+
+### Ambition AI Agent
+
+
+#### Collaborate with the AI Agent
+
+- [What Types of Questions Can I Ask the AI Agent?](https://help.ambition.com/articles/5909517154-what-questions-can-i-ask-the-ai-agent)
+- [How Do I Access the Ambition AI Agent?](https://help.ambition.com/articles/6198562958-how-do-i-access-the-ambition-ai-agent)
+- [Where Can I See My AI Agent Chat History?](https://help.ambition.com/articles/8276634513-where-can-i-see-my-ai-agent-chat-history)
+- [How Do I Resolve an Incorrect Answer from the AI Agent?](https://help.ambition.com/articles/8833591681-how-do-i-resolve-an-incorrect-answer-from-the-ai-agent)
+- [How Do I Use the Inspect Work Tab to Check Agent Replies?](https://help.ambition.com/articles/7414082402-how-to-use-the-ambition-agent-s-inspect-work-tab-to-check-agent-replies)
+
+#### Skills
+
+
+##### Create Skills
+
+- [What Are Ambition Skills?](https://help.ambition.com/articles/2322233956-what-are-ambition-skills)
+- [What are Skill Parameters?](https://help.ambition.com/articles/2700683289-what-are-skill-parameters)
+- [How Do I Run Skills in the AI Agent?](https://help.ambition.com/articles/2353072241-how-do-i-run-skills-in-the-ai-agent)
+- [How Do I Create a Custom Skill?](https://help.ambition.com/articles/2795995846-how-can-i-create-a-custom-skill)
+- [How Can I Create a Skill from the Skill Library?](https://help.ambition.com/articles/7554537953-how-can-i-create-a-skill-from-the-skill-library)
+- [Which Text and Data Formatting Options are Available for Skill and Procedure Output?](https://help.ambition.com/articles/5880177487-which-text-and-data-formatting-options-are-available-in-the-ambition-ai-agent)
+- [Where Can I View Skills I Created or That Have Been Shared with Me?](https://help.ambition.com/articles/2462090145-where-can-i-view-skills-i-created-or-that-have-been-shared-with-me)
+
+##### Edit and Share Skills
+
+- [How Do I Share a Skill with Other Employees? ](https://help.ambition.com/articles/4202377611-how-do-i-share-a-skill-with-other-employees)
+- [How Do I Edit a Skill?](https://help.ambition.com/articles/7953148293-how-do-i-edit-a-skill)
+- [How Do I Give Skill Editing Access to Others?](https://help.ambition.com/articles/1030178862-how-do-i-give-skill-editing-access-to-others)
+
+##### Skill Permissions
+
+- [What Permissions Do I Need to Create, Edit, and Share Skills?](https://help.ambition.com/articles/8154060385-what-permissions-do-i-need-to-create-edit-and-share-skills)
+
+#### Procedures
+
+- [How Do I Create and Use Procedures with the AI Agent?](https://help.ambition.com/articles/1903209181-how-do-i-set-up-procedures-in-ambition)
+
+#### AI Agent FAQ
+
+- [What Information Can the AI Agent Access?](https://help.ambition.com/articles/2496623310-what-data-can-the-ai-agent-access)
+- [Does the AI Agent Use My Data to Benefit Other Companies?](https://help.ambition.com/articles/1239961419-is-the-ai-agent-using-my-data-to-benefit-other-companies)
+- [How Are the AI Agent's Suggested Questions Generated?](https://help.ambition.com/articles/3731572608-how-are-the-ai-suggestion-chips-generated)
+
+#### Audit AI Usage
+
+- [How Can I Export My Team's AI Agent Chat History?](https://help.ambition.com/articles/7318911956-how-can-i-export-my-team-s-ai-agent-chat-history)
+- [How Can I Export My Organization's AI Agent Chats?](https://help.ambition.com/articles/9545928218-how-can-i-export-my-organization-s-ai-agent-chats)
+
+#### MCP Connector
+
+- [How Do I Set Up the Ambition MCP Connector?](https://help.ambition.com/articles/1990026020-how-to-set-up-the-ambition-mcp-connector)
+
+#### AI Settings
+
+- [How Do I Customize My Company's Ambition AI Agent Settings?](https://help.ambition.com/articles/5842883981-customize-orgwide-ai-agent-settings)
+
+### Performance Graph
+
+- [What is the Performance Graph?](https://help.ambition.com/articles/9159121344-what-is-the-performance-graph)
+- [How Do I Use the Sources Tab?](https://help.ambition.com/articles/7879588254-how-do-i-use-the-sources-tab)
+- [How Do I Use the Warehouse Tab?](https://help.ambition.com/articles/8836254734-how-do-i-use-the-warehouse-tab)
+- [How Do I Use the Pipeline Tab?](https://help.ambition.com/articles/4709903162-how-can-i-use-the-pipeline-configuration-tab-so-that-the-ai-agent-provides-consistent-pipeline-analysis)
+- [How Do I Export Data from the Warehouse Tab?](https://help.ambition.com/articles/4669292948-how-do-i-export-data-from-the-warehouse-tab)
+
+### Motivate
+
+- [What features are part of Motivate?](https://help.ambition.com/articles/8784711772-what-features-are-part-of-motivate)
+- [How do I get the most value from Motivate? (Manager and Admin)](https://help.ambition.com/articles/2427608670-How-do-I-get-the-most-value-from-motivate-Manager)
+- [How do I get the most value from Motivate? (Rep)](https://help.ambition.com/articles/6755728611-How-do-I-get-the-most-value-from-Motivate-Rep)
+
+### Analyze
+
+- [What features are part of Analyze?](https://help.ambition.com/articles/4629834843-what-features-are-part-of-analyze)
+- [How do I get the most value from Analyze? (Manager and Admin)](https://help.ambition.com/articles/6844809152-How-do-I-get-the-most-value-Analyze-Manager)
+
+### Audit
+
+- [How Do I Audit My Organization's AI Agent Usage?](https://help.ambition.com/articles/3699887476-how-can-i-audit-my-organization-s-ai-agent-usage-and-settings)
+
+### Super Admin
+
+- [What is a Super Admin?](https://help.ambition.com/articles/9911604614-what-is-a-super-admin)
+- [What Happens When a Super Admin Logs In As Another User?](https://help.ambition.com/articles/6862433832-what-happens-when-a-super-admin-logs-in-as-another-user)
+- [How Do I Assign Someone as a Super Admin?](https://help.ambition.com/articles/4533143505-how-do-i-assign-someone-as-a-super-admin)
+- [How Do I Remove Someone as a Super Admin?](https://help.ambition.com/articles/4171034970-how-do-i-remove-someone-as-a-super-admin)
+- [How Does a Super Admin Login As Another User?](https://help.ambition.com/articles/4325806157-how-does-a-super-admin-login-as-another-user)
+- [How Does a Super Admin End Their Login As Session?](https://help.ambition.com/articles/8989123295-how-does-a-super-admin-end-their-login-as-session)
+- [Who Is Notified Whenever a Super Admin is Added?](https://help.ambition.com/articles/8481099589-who-is-notified-whenever-a-super-admin-is-added)
+- [Who Is Notified Whenever a Super Admin Logs In As Another User?](https://help.ambition.com/articles/4616335648-who-is-notified-whenever-a-super-admin-logs-in-as-another-user)
+- [What Happens When Someone Is Removed as a Super Admin?](https://help.ambition.com/articles/9929226693-what-happens-when-someone-is-removed-as-a-super-admin)
+
+### Organization Settings
+
+
+### Pipeline
+
+
+#### Pipeline Views
+
+- [What is a Pipeline View?](https://help.ambition.com/articles/2882318471-what-is-a-pipeline-view)
+- [How Do I Create and Save a Pipeline View?](https://help.ambition.com/articles/8701823702-how-do-i-create-and-save-a-pipeline-view)
+- [How Do I Share a Pipeline View with Others?](https://help.ambition.com/articles/6673448261-how-do-i-share-a-pipeline-view-with-others)
+- [How Do I Edit My Saved Pipeline Views?](https://help.ambition.com/articles/8529799288-how-do-i-edit-my-saved-pipeline-views)
+- [How Do I Grant Editing Access for My Pipeline View?](https://help.ambition.com/articles/6781876315-how-do-i-grant-editing-access-for-my-pipeline-view)
+- [How Do I Duplicate a Pipeline View?](https://help.ambition.com/articles/9515957784-how-do-i-duplicate-a-pipeline-view)
+- [How Do I Export My Pipeline View?](https://help.ambition.com/articles/2484529677-how-do-i-export-my-pipeline-view)
+
+#### Pipeline View Templates
+
+- [How Do I Create a Pipeline View Template?](https://help.ambition.com/articles/9652973208-how-do-i-create-a-pipeline-view-template)
+- [What is a Pipeline View Template?](https://help.ambition.com/articles/3260880918-what-is-a-pipeline-view-template)
+- [How Do I Share a Pipeline View Template?](https://help.ambition.com/articles/7451140402-how-do-i-share-a-pipeline-view-template)
+
+#### Pipeline Insights
+
+- [How Do I Generate Pipeline Insights?](https://help.ambition.com/articles/2134179132-how-do-i-generate-pipeline-insights)
+- [How Can I Customize My Pipeline Insights?](https://help.ambition.com/articles/4531006110-how-can-i-customize-my-pipeline-insights)
+- [What Are Pushed, Pulled, and Slipped Date Movements in Pipeline Insights?](https://help.ambition.com/articles/3529773419-what-are-pushed-pulled-and-slipped-date-movements-in-pipeline-insights)
+- [How Can I Tell When an Opportunity is Added, Removed, or Changed in My Pipeline View?](https://help.ambition.com/articles/5580850720-how-can-i-tell-when-an-opportunity-is-added-removed-or-changed-in-my-pipeline-view)
+
+

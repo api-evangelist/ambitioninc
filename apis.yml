@@ -1,23 +1,111 @@
 aid: ambitioninc
+
 name: Ambitioninc
-description: 'Ambitioninc is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/6984499d58b4a2c470a1db24/699e04a5d021c325fc2db81f_OG.png
+
+description: Ambitioninc provides a revenue operations platform that helps sales teams improve performance through AI‑driven coaching, real‑time
+  analytics, and workflow automation. The solution integrates with CRM and communication tools, offering dashboards, gamification, and data‑driven
+  insights to boost productivity and align revenue goals across the organization.
+
 url: https://raw.githubusercontent.com/api-evangelist/ambitioninc/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-24'
+
 modified: '2026-09-24'
+
 tags:
-- Company
-apis: []
+- SaaS
+- Revenue Operations
+- Sales Enablement
+- AI
+- Platform
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/ambitioninc-plans-pricing.yml
+- type: Spectral
+  url: rules/ambitioninc-rules.yml
+- type: ChangeLog
+  url: changelog/ambitioninc-changelog.yml
+- type: Compliance
+  url: https://security.ambition.com/
+- type: Authentication
+  url: authentication/ambitioninc-authentication.yml
+- type: Conformance
+  url: conformance/ambitioninc-conformance.yml
+- type: LLMsTxt
+  url: llms/ambitioninc-llms.txt
+- type: WellKnown
+  url: well-known/ambitioninc-well-known.yml
+- type: Hosts
+  url: hosts/ambitioninc-hosts.yml
+- type: Vendors
+  url: vendors/ambitioninc-vendors.yml
+- type: TermsOfService
+  url: https://ambition.com/terms
+- type: Support
+  url: https://help.ambition.com
+- type: PrivacyPolicy
+  url: https://ambition.com/privacy
+- type: Pricing
+  url: https://ambition.com/pricing
+- type: Blog
+  url: https://ambition.com/blog/we-do-coaching
+- type: GettingStarted
+  url: https://help.ambition.com/articles/4369357246-how-do-i-set-up-the-coaching-quickstart-and-access-check-in-visualizations-within-domo
+- type: Documentation
+  url: https://help.ambition.com/
+- type: TrustCenter
+  url: security/ambitioninc-trust-center.yml
+- type: DomainSecurity
+  url: security/ambitioninc-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/ambitioninc
+  url: https://ambition.com
+
+apis:
+- name: Ambition API
+  description: API for Ambition's revenue operations platform, referenced in help articles.
+  humanURL: https://help.ambition.com/
+  aid: ambitioninc:ambition-api
+- aid: ambitioninc:ambitioninc-api
+  name: Ambitioninc API
+  description: 'Ambitioninc API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-09-24);
+
+    not the provider''s own document.'
+  humanURL: https://help.ambition.com/articles/2869705308-how-do-i-create-and-edit-users-through-the-user-api
+  baseURL: https://SUBDOMAIN.ambition.com
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/ambitioninc-openapi-generated.yml
+    x-provenance: generated
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation pages are JavaScript‑rendered and no OpenAPI spec is discoverable.
+  evidence:
+  - url: https://help.ambition.com/
+    status: 200
+  checked: 2026-09-24
+x-enrichment:
+  date: '2026-09-24'
+  status: enriched
+  artifacts_added: 15
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
