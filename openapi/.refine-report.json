@@ -1,0 +1,23 @@
+{
+  "provider": "ambitioninc",
+  "sources": [
+    "_ae-authored/ambitioninc-openapi-generated.yml"
+  ],
+  "outputs": [
+    "ambitioninc-account-api-openapi.yml",
+    "ambitioninc-data-api-openapi.yml"
+  ],
+  "archived": [],
+  "errors": [],
+  "warnings": [],
+  "notes": [
+    "sourced from openapi/_original/ (0 archived document(s)); previously refined output at the top level was skipped rather than re-split",
+    "ambitioninc-openapi-generated.yml: upgraded openapi 3.1.0 -> OpenAPI 3.2.0",
+    "ambitioninc-openapi-generated.yml: tagged paths POST /api/v1/data/{datatype} -> Data",
+    "ambitioninc-openapi-generated.yml: tagged paths GET /api/v3/account -> Account",
+    "ambitioninc-openapi-generated.yml: declared missing tag: Account",
+    "ambitioninc-openapi-generated.yml: declared missing tag: Data",
+    "apis.yml register: written (+2 apis, 3 total)"
+  ],
+  "skipped": []
+}

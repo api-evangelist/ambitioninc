@@ -83,18 +83,26 @@ apis:
   description: API for Ambition's revenue operations platform, referenced in help articles.
   humanURL: https://help.ambition.com/
   aid: ambitioninc:ambition-api
-- aid: ambitioninc:ambitioninc-api
-  name: Ambitioninc API
-  description: 'Ambitioninc API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-09-24);
-
-    not the provider''s own document.'
-  humanURL: https://help.ambition.com/articles/2869705308-how-do-i-create-and-edit-users-through-the-user-api
+- aid: ambitioninc:ambitioninc-account-api
+  name: Ambitioninc Account API
+  description: The Account API from Ambitioninc — 1 operation(s) for account.
+  humanURL: https://help.ambition.com/
   baseURL: https://SUBDOMAIN.ambition.com
+  tags:
+  - Account
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/ambitioninc-openapi-generated.yml
-    x-provenance: generated
-
+    url: openapi/ambitioninc-account-api-openapi.yml
+- aid: ambitioninc:ambitioninc-data-api
+  name: Ambitioninc Data API
+  description: The Data API from Ambitioninc — 1 operation(s) for data.
+  humanURL: https://help.ambition.com/
+  baseURL: https://SUBDOMAIN.ambition.com
+  tags:
+  - Data
+  properties:
+  - type: OpenAPI
+    url: openapi/ambitioninc-data-api-openapi.yml
 x-coverage:
   state: unreadable
   reason: js-rendered-docs
